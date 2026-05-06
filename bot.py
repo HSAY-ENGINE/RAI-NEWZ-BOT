@@ -94,7 +94,8 @@ def send_message(text):
 
 # ─── SUMMARIZE WITH GEMINI ───
 def summarize_with_ai(title, description):
-    prompt = f"""
+    try:
+        prompt = f"""
 You are an AI news assistant for a young AI builder in India.
 
 Video Title: {title}
@@ -109,11 +110,13 @@ Give me:
 
 Keep it short and sharp. No fluff.
 """
-    response = client.models.generate_content(
-        model="gemini-2.5-flash-lite",
-        contents=prompt
-    )
-    return response.text
+        response = client.models.generate_content(
+            model="gemini-2.5-flash-lite",
+            contents=prompt
+        )
+        return response.text
+    except Exception as e:
+        return f"⚠️ AI summary unavailable. Read directly."
 
 # ─── FETCH YOUTUBE CHANNEL ───
 def fetch_youtube(channel_id, channel_name):
