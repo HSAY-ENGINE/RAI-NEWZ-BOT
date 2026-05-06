@@ -207,7 +207,7 @@ def run_bot():
         if message:
             send_message(message)
             new_content = True
-        time.sleep(3)
+        time.sleep(15)
 
     # ─── NEWS WEBSITES ───
     for source in NEWS_SOURCES:
@@ -215,7 +215,7 @@ def run_bot():
         if message:
             send_message(message)
             new_content = True
-        time.sleep(3)
+        time.sleep(15)
 
     if not new_content:
         send_message("✅ No new content since last check. You are up to date!")
