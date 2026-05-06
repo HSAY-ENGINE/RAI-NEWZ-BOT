@@ -1,0 +1,31 @@
+name: RAI NEWZ BOT
+
+on:
+  schedule:
+    - cron: '30 2 * * *'  # 8:00 AM IST
+    - cron: '30 14 * * *' # 8:00 PM IST
+  workflow_dispatch:      # Manual trigger
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: Install libraries
+      run: |
+        pip install feedparser requests google-genai python-dotenv schedule
+    
+    - name: Run bot
+      env:
+        BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+        CHAT_ID: ${{ secrets.CHAT_ID }}
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      run: python bot.py
