@@ -1,3 +1,13 @@
 https://openai.com/index/openai-pwc-finance-collaboration
 https://www.anthropic.com/news/enterprise-ai-services-company
 https://www.youtube.com/watch?v=jz0rNhfAKo8
+https://www.youtube.com/shorts/z7EE9VWKrCA
+https://openai.com/index/singular-bank
+https://www.anthropic.com/news/higher-limits-spacex
+https://deepmind.google/blog/ai-co-clinician/
+https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections
+https://ai.meta.com/blog/scaling-how-we-build-test-advanced-ai/
+https://simonwillison.net/2026/May/6/code-w-claude-2026/#atom-everything
+https://blog.n8n.io/production-ai-playbook-evaluation-and-monitoring/
+https://replicate.com/blog/seedance-2
+https://yourstory.com/ai-story/how-ai-is-redefining-the-developers-workflow
