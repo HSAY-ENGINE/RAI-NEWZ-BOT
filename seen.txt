@@ -28,3 +28,7 @@ https://www.youtube.com/watch?v=35WuZxbAY68
 https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber
 https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/medqa
 https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything
+https://www.youtube.com/watch?v=4nQnhjimB4Y
+https://www.youtube.com/watch?v=SXneZ3bRKO4
+https://www.youtube.com/watch?v=BoaJmz6Ui6c
+https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b
