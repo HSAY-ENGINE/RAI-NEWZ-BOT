@@ -32,3 +32,7 @@ https://www.youtube.com/watch?v=4nQnhjimB4Y
 https://www.youtube.com/watch?v=SXneZ3bRKO4
 https://www.youtube.com/watch?v=BoaJmz6Ui6c
 https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b
+https://www.youtube.com/shorts/KtuU1sE4FKo
+https://www.youtube.com/watch?v=YHk45NEpspE
+https://openai.com/index/running-codex-safely
+https://simonwillison.net/2026/May/9/luke-curley/#atom-everything
