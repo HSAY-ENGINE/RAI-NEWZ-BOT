@@ -47,3 +47,8 @@ https://www.youtube.com/shorts/nBEOI4-Isns
 https://openai.com/index/openai-campus-network-student-club-interest-form
 https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck
 https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything
+https://www.youtube.com/shorts/u1DIUjF_5_Q
+https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai
+https://huggingface.co/blog/allenai/emo
+https://simonwillison.net/2026/May/11/james-shore/#atom-everything
+https://yourstory.com/2026/02/-ai-now-dominates-softbank-portfolio
