@@ -52,3 +52,9 @@ https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai
 https://huggingface.co/blog/allenai/emo
 https://simonwillison.net/2026/May/11/james-shore/#atom-everything
 https://yourstory.com/2026/02/-ai-now-dominates-softbank-portfolio
+https://www.youtube.com/shorts/3PYEsXpkPzo
+https://www.youtube.com/watch?v=ZAaxx3qyT8g
+https://openai.com/signals/research/2026q1-update
+https://huggingface.co/blog/amazon/foundation-model-building-blocks
+https://simonwillison.net/2026/May/11/gitlab-act-2/#atom-everything
+https://blog.n8n.io/mercedes-benz-n8n/
