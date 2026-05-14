@@ -82,3 +82,7 @@ https://www.youtube.com/shorts/rh4QYinnJyM
 https://www.youtube.com/watch?v=-nG-9vlSkho
 https://www.youtube.com/shorts/RPjmz3j_p9s
 https://simonwillison.net/2026/May/13/welcome-to-the-datasette-blog/#atom-everything
+https://openai.com/index/work-with-codex-from-anywhere
+https://www.anthropic.com/news/gates-foundation-partnership
+https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2
+https://simonwillison.net/2026/May/14/datasette-ip-rate-limit/#atom-everything
