@@ -86,3 +86,7 @@ https://openai.com/index/work-with-codex-from-anywhere
 https://www.anthropic.com/news/gates-foundation-partnership
 https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2
 https://simonwillison.net/2026/May/14/datasette-ip-rate-limit/#atom-everything
+https://www.youtube.com/shorts/htjkv-NUU5Q
+https://www.youtube.com/shorts/oohrtHxW_B4
+https://openai.com/index/sea-david-chen
+https://simonwillison.net/2026/May/14/not-so-locked-in/#atom-everything
