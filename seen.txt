@@ -117,3 +117,9 @@ https://www.youtube.com/shorts/gVMz2vKzYRY
 https://www.youtube.com/shorts/ReZ_h77_HRU
 https://www.youtube.com/watch?v=LzLHjktm-iA
 https://huggingface.co/blog/ibm-research/open-agent-leaderboard
+https://www.youtube.com/shorts/9oN_0gQbe-4
+https://www.youtube.com/watch?v=kB9iMD0EjT8
+https://openai.com/index/dell-codex-enterprise-partnership
+https://www.anthropic.com/news/anthropic-acquires-stainless
+https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation
+https://simonwillison.net/2026/May/18/sighting-362781627/#atom-everything
