@@ -127,3 +127,8 @@ https://www.youtube.com/shorts/XlyOJYwRdPg
 https://www.youtube.com/shorts/BcqVIsMz7FU
 https://www.anthropic.com/news/anthropic-kpmg
 https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything
+https://www.youtube.com/shorts/cpQ9b_qxPPY
+https://www.youtube.com/shorts/vILZpZ4Ynz4
+https://openai.com/index/advancing-content-provenance
+https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/
+https://huggingface.co/blog/allenai/olmoearth-v1-1
