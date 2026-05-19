@@ -123,3 +123,7 @@ https://openai.com/index/dell-codex-enterprise-partnership
 https://www.anthropic.com/news/anthropic-acquires-stainless
 https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation
 https://simonwillison.net/2026/May/18/sighting-362781627/#atom-everything
+https://www.youtube.com/shorts/XlyOJYwRdPg
+https://www.youtube.com/shorts/BcqVIsMz7FU
+https://www.anthropic.com/news/anthropic-kpmg
+https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything
