@@ -136,3 +136,8 @@ https://www.youtube.com/shorts/1zEvukbHLj4
 https://www.youtube.com/watch?v=brB-hSiV2iU
 https://openai.com/index/the-next-phase-of-education-for-countries
 https://simonwillison.net/2026/May/19/llm-gemini-2/#atom-everything
+https://www.youtube.com/watch?v=o_av1b9rs2g
+https://www.youtube.com/shorts/bQN-D8qeAgg
+https://www.youtube.com/shorts/21FCMCHUb3o
+https://openai.com/index/model-disproves-discrete-geometry-conjecture
+https://simonwillison.net/2026/May/20/tokens-per-second/#atom-everything
