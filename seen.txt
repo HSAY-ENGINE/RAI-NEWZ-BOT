@@ -132,3 +132,7 @@ https://www.youtube.com/shorts/vILZpZ4Ynz4
 https://openai.com/index/advancing-content-provenance
 https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/
 https://huggingface.co/blog/allenai/olmoearth-v1-1
+https://www.youtube.com/shorts/1zEvukbHLj4
+https://www.youtube.com/watch?v=brB-hSiV2iU
+https://openai.com/index/the-next-phase-of-education-for-countries
+https://simonwillison.net/2026/May/19/llm-gemini-2/#atom-everything
