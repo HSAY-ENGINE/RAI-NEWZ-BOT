@@ -147,3 +147,6 @@ https://www.youtube.com/watch?v=6cEQEba0i2A
 https://www.youtube.com/watch?v=3v5KAS1uuwE
 https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything
 https://blog.n8n.io/ai-maturity-where-enterprises-stand-today/
+https://openai.com/index/adventhealth
+https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/
+https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything
