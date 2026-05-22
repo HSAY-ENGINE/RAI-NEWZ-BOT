@@ -153,3 +153,8 @@ https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything
 https://www.youtube.com/watch?v=LpXhy2iiaQE
 https://www.youtube.com/shorts/dpNKposa9JU
 https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything
+https://www.youtube.com/watch?v=kyOPFFy3I38
+https://www.youtube.com/watch?v=-dwLbaCB-_I
+https://www.youtube.com/watch?v=Pi-m8R068r4
+https://openai.com/index/gartner-2026-agentic-coding-leader
+https://huggingface.co/blog/Dharma-AI/specialization-beats-scale
