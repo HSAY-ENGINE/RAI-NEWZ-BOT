@@ -150,3 +150,6 @@ https://blog.n8n.io/ai-maturity-where-enterprises-stand-today/
 https://openai.com/index/adventhealth
 https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/
 https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything
+https://www.youtube.com/watch?v=LpXhy2iiaQE
+https://www.youtube.com/shorts/dpNKposa9JU
+https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything
