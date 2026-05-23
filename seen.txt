@@ -158,3 +158,6 @@ https://www.youtube.com/watch?v=-dwLbaCB-_I
 https://www.youtube.com/watch?v=Pi-m8R068r4
 https://openai.com/index/gartner-2026-agentic-coding-leader
 https://huggingface.co/blog/Dharma-AI/specialization-beats-scale
+https://www.youtube.com/shorts/Ir_4tUT4b3o
+https://huggingface.co/blog/nvidia/nemotron-labs-diffusion
+https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything
