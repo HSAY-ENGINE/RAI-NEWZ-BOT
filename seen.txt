@@ -161,3 +161,5 @@ https://huggingface.co/blog/Dharma-AI/specialization-beats-scale
 https://www.youtube.com/shorts/Ir_4tUT4b3o
 https://huggingface.co/blog/nvidia/nemotron-labs-diffusion
 https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything
+https://www.youtube.com/shorts/n1Ijq-9SE_c
+https://www.youtube.com/watch?v=ofxcuviZqQU
