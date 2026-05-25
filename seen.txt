@@ -169,3 +169,5 @@ https://www.youtube.com/shorts/Pz9kmkHwD3s
 https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything
 https://www.youtube.com/shorts/rTCusbsfDNI
 https://www.youtube.com/watch?v=HJN3husu1oM
+https://www.youtube.com/shorts/MhHCboNiNJk
+https://simonwillison.net/2026/May/24/datasette/#atom-everything
