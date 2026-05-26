@@ -177,3 +177,6 @@ https://www.youtube.com/watch?v=8ktcSaSTvxk
 https://openai.com/index/grupo-folha-grupo-uol-partnership
 https://www.anthropic.com/news/chris-olah-pope-leo-encyclical
 https://huggingface.co/blog/agent-glossary
+https://www.youtube.com/shorts/wRfsHz3NBvE
+https://simonwillison.net/2026/May/26/corey-quinn/#atom-everything
+https://blog.n8n.io/make-ai-agents-more-reliable-and-restrict-the-actions-they-can-take/
