@@ -180,3 +180,9 @@ https://huggingface.co/blog/agent-glossary
 https://www.youtube.com/shorts/wRfsHz3NBvE
 https://simonwillison.net/2026/May/26/corey-quinn/#atom-everything
 https://blog.n8n.io/make-ai-agents-more-reliable-and-restrict-the-actions-they-can-take/
+https://www.youtube.com/shorts/kIvvzCR5NjA
+https://www.youtube.com/shorts/xjarVOaUz3k
+https://www.youtube.com/watch?v=wj8sGbKhNtU
+https://www.youtube.com/watch?v=RLjaUES9P8A
+https://www.youtube.com/shorts/dpMBjfAmM_4
+https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything
