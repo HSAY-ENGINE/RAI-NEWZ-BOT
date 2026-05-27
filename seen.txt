@@ -186,3 +186,9 @@ https://www.youtube.com/watch?v=wj8sGbKhNtU
 https://www.youtube.com/watch?v=RLjaUES9P8A
 https://www.youtube.com/shorts/dpMBjfAmM_4
 https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything
+https://www.youtube.com/shorts/zNZ6tMJCx54
+https://www.youtube.com/watch?v=StMC4AU7Bds
+https://openai.com/index/building-self-improving-tax-agents-with-codex
+https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea
+https://huggingface.co/blog/delta-weight-sync
+https://simonwillison.net/2026/May/27/kyle-ferrana/#atom-everything
