@@ -209,3 +209,7 @@ https://www.youtube.com/shorts/UYiLguXg_Ds
 https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense
 https://huggingface.co/blog/torch-profiler
 https://simonwillison.net/2026/May/29/datasette/#atom-everything
+https://www.youtube.com/watch?v=aJvP3nXWkwM
+https://www.youtube.com/shorts/5wx8e-JJT90
+https://www.youtube.com/watch?v=0WDkwMxj13s
+https://openai.com/index/boston-childrens-hospital
