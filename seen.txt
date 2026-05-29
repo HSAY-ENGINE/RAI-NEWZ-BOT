@@ -202,3 +202,10 @@ https://www.youtube.com/watch?v=WeFJzppMOyI
 https://www.youtube.com/watch?v=q5lg3npxjAc
 https://openai.com/index/openai-frontier-governance-framework
 https://www.anthropic.com/news/series-h
+https://www.youtube.com/watch?v=7TG78vIYI-Q
+https://www.youtube.com/shorts/Akjv6EtgNhE
+https://www.youtube.com/watch?v=r1hQ0WhE7rk
+https://www.youtube.com/shorts/UYiLguXg_Ds
+https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense
+https://huggingface.co/blog/torch-profiler
+https://simonwillison.net/2026/May/29/datasette/#atom-everything
