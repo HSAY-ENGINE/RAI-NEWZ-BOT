@@ -220,3 +220,6 @@ https://www.youtube.com/watch?v=Q1KT9ugTL1E
 https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything
 https://www.youtube.com/shorts/Uy9s8W_vu78
 https://simonwillison.net/2026/May/31/anthropic-run-rate/#atom-everything
+https://www.youtube.com/shorts/4fuBpnWma8Y
+https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything
+https://blog.n8n.io/sovereign-ai-in-practice-automate-document-summarization-with-ionos-ai-model-hub-and-nextcloud/
