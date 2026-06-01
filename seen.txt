@@ -230,3 +230,4 @@ https://www.anthropic.com/news/confidential-draft-s1-sec
 https://huggingface.co/blog/JetBrains/mellum2-launch
 https://simonwillison.net/2026/Jun/1/may-newsletter/#atom-everything
 https://replicate.com/blog/grok-imagine
+https://simonwillison.net/2026/Jun/1/hackers-simply-asked-meta-ai/#atom-everything
