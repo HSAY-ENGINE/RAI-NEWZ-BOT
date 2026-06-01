@@ -223,3 +223,10 @@ https://simonwillison.net/2026/May/31/anthropic-run-rate/#atom-everything
 https://www.youtube.com/shorts/4fuBpnWma8Y
 https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything
 https://blog.n8n.io/sovereign-ai-in-practice-automate-document-summarization-with-ionos-ai-model-hub-and-nextcloud/
+https://www.youtube.com/watch?v=yz6I23VRbdg
+https://www.youtube.com/shorts/C5Wuq4k1IbY
+https://openai.com/index/stargate-michigan-data-center
+https://www.anthropic.com/news/confidential-draft-s1-sec
+https://huggingface.co/blog/JetBrains/mellum2-launch
+https://simonwillison.net/2026/Jun/1/may-newsletter/#atom-everything
+https://replicate.com/blog/grok-imagine
