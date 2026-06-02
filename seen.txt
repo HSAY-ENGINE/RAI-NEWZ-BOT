@@ -231,3 +231,12 @@ https://huggingface.co/blog/JetBrains/mellum2-launch
 https://simonwillison.net/2026/Jun/1/may-newsletter/#atom-everything
 https://replicate.com/blog/grok-imagine
 https://simonwillison.net/2026/Jun/1/hackers-simply-asked-meta-ai/#atom-everything
+https://www.youtube.com/shorts/MOviZKtFeHM
+https://www.youtube.com/shorts/IfR4aeXW37U
+https://www.youtube.com/shorts/TYP-lmw3kP8
+https://www.youtube.com/watch?v=NHFbAg2b54U
+https://openai.com/index/travelers
+https://www.anthropic.com/news/expanding-project-glasswing
+https://huggingface.co/blog/Hcompany/holo31
+https://simonwillison.net/2026/Jun/2/pasted-file-editor/#atom-everything
+https://blog.n8n.io/how-to-debug-failures-or-missteps-in-ai-agent-behavior/
