@@ -240,3 +240,4 @@ https://www.anthropic.com/news/expanding-project-glasswing
 https://huggingface.co/blog/Hcompany/holo31
 https://simonwillison.net/2026/Jun/2/pasted-file-editor/#atom-everything
 https://blog.n8n.io/how-to-debug-failures-or-missteps-in-ai-agent-behavior/
+https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything
