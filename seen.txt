@@ -241,3 +241,12 @@ https://huggingface.co/blog/Hcompany/holo31
 https://simonwillison.net/2026/Jun/2/pasted-file-editor/#atom-everything
 https://blog.n8n.io/how-to-debug-failures-or-missteps-in-ai-agent-behavior/
 https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything
+https://www.youtube.com/shorts/iz7elwbqZVI
+https://www.youtube.com/shorts/hXyQs1qmKHQ
+https://www.youtube.com/shorts/Oi_uqlSsHFs
+https://www.youtube.com/watch?v=vfWTyEreOEc
+https://www.youtube.com/watch?v=HbxeS1uF_iw
+https://openai.com/index/public-policy-agenda
+https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack
+https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots
+https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything
