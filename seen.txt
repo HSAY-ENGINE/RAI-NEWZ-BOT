@@ -250,3 +250,4 @@ https://openai.com/index/public-policy-agenda
 https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack
 https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots
 https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything
+https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind
