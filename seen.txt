@@ -255,3 +255,6 @@ https://www.youtube.com/shorts/BNKTPkhSibQ
 https://www.youtube.com/shorts/nADdoG2_z0c
 https://openai.com/index/endava-frontiers
 https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr
+https://www.youtube.com/shorts/UIoO9-0hL0o
+https://www.youtube.com/watch?v=c0kaKxM2pHg
+https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything
