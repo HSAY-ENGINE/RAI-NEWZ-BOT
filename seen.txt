@@ -263,3 +263,9 @@ https://www.youtube.com/shorts/e2FoE02o_Is
 https://www.youtube.com/shorts/FdKPnjG5oP8
 https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety
 https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/#atom-everything
+https://www.youtube.com/watch?v=Dkqzqw8rxXI
+https://www.youtube.com/watch?v=nz4h3H1MmTg
+https://www.youtube.com/shorts/ucRjmULJxyo
+https://www.youtube.com/watch?v=Nql-5Ph3xZs
+https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything
+https://blog.n8n.io/ai-hallucinations/
