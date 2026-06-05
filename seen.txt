@@ -258,3 +258,8 @@ https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr
 https://www.youtube.com/shorts/UIoO9-0hL0o
 https://www.youtube.com/watch?v=c0kaKxM2pHg
 https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything
+https://www.youtube.com/shorts/fVc95xxfg80
+https://www.youtube.com/shorts/e2FoE02o_Is
+https://www.youtube.com/shorts/FdKPnjG5oP8
+https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety
+https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/#atom-everything
