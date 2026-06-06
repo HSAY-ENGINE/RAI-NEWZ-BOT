@@ -269,3 +269,7 @@ https://www.youtube.com/shorts/ucRjmULJxyo
 https://www.youtube.com/watch?v=Nql-5Ph3xZs
 https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything
 https://blog.n8n.io/ai-hallucinations/
+https://www.youtube.com/shorts/iPSevsRZOfk
+https://www.youtube.com/watch?v=NDeyhGnNECc
+https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim
+https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything
