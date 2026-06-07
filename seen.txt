@@ -279,3 +279,6 @@ https://www.youtube.com/watch?v=-VkjpDF8crc
 https://www.youtube.com/watch?v=AzptxkfhJv4
 https://www.youtube.com/shorts/OMXXHx9hZcc
 https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2
+https://www.youtube.com/shorts/-88-siI3sZU
+https://www.youtube.com/watch?v=lkR6mvqQQlk
+https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers
