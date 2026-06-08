@@ -286,3 +286,7 @@ https://www.youtube.com/shorts/08uMw4_BWOA
 https://www.youtube.com/shorts/fCEpoioDzQA
 https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures
 https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything
+https://www.youtube.com/shorts/jKgrNh_q_b0
+https://www.youtube.com/shorts/D_354sfppdU
+https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v3
+https://blog.n8n.io/integration-patterns-how-to-choose-for-your-architecture/
