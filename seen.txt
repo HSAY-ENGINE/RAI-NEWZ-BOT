@@ -282,3 +282,7 @@ https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2
 https://www.youtube.com/shorts/-88-siI3sZU
 https://www.youtube.com/watch?v=lkR6mvqQQlk
 https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers
+https://www.youtube.com/shorts/08uMw4_BWOA
+https://www.youtube.com/shorts/fCEpoioDzQA
+https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures
+https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything
