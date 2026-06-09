@@ -293,3 +293,9 @@ https://blog.n8n.io/integration-patterns-how-to-choose-for-your-architecture/
 https://openai.com/index/openai-submits-confidential-s-1
 https://huggingface.co/blog/openenv-agentic-rl
 https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything
+https://www.youtube.com/shorts/wg9jm_d7Emk
+https://www.youtube.com/shorts/MDVPgR7YmOM
+https://www.youtube.com/watch?v=e18sdZLwP7o
+https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/
+https://huggingface.co/blog/mishig/spaces-agents-md
+https://blog.n8n.io/production-ai-playbook-complex-agent-patterns/
