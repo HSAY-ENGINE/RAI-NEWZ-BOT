@@ -290,3 +290,6 @@ https://www.youtube.com/shorts/jKgrNh_q_b0
 https://www.youtube.com/shorts/D_354sfppdU
 https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v3
 https://blog.n8n.io/integration-patterns-how-to-choose-for-your-architecture/
+https://openai.com/index/openai-submits-confidential-s-1
+https://huggingface.co/blog/openenv-agentic-rl
+https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything
