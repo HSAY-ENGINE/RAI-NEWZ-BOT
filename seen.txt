@@ -303,3 +303,11 @@ https://openai.com/index/nextdoor
 https://www.anthropic.com/news/claude-fable-5-mythos-5
 https://huggingface.co/blog/ServiceNow-AI/code-switching
 https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/#atom-everything
+https://www.youtube.com/shorts/X9cvCQ3qrVk
+https://www.youtube.com/shorts/c_lY-7_fgHg
+https://www.youtube.com/watch?v=8QQ_INxAhRs
+https://www.youtube.com/shorts/HD1sC8A8LOs
+https://openai.com/index/lseg
+https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/
+https://simonwillison.net/2026/Jun/10/jeremy-howard/#atom-everything
+https://blog.n8n.io/llm-routing/
