@@ -299,3 +299,7 @@ https://www.youtube.com/watch?v=e18sdZLwP7o
 https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/
 https://huggingface.co/blog/mishig/spaces-agents-md
 https://blog.n8n.io/production-ai-playbook-complex-agent-patterns/
+https://openai.com/index/nextdoor
+https://www.anthropic.com/news/claude-fable-5-mythos-5
+https://huggingface.co/blog/ServiceNow-AI/code-switching
+https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/#atom-everything
