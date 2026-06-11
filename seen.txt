@@ -311,3 +311,9 @@ https://openai.com/index/lseg
 https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/
 https://simonwillison.net/2026/Jun/10/jeremy-howard/#atom-everything
 https://blog.n8n.io/llm-routing/
+https://www.youtube.com/watch?v=haK1KoQWm18
+https://www.youtube.com/watch?v=2lE1-5hBfKk
+https://www.youtube.com/shorts/6P7_mPuwnEY
+https://www.youtube.com/shorts/3NunlwdvSAc
+https://openai.com/index/using-codex-to-simulate-black-holes
+https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything
