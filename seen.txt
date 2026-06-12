@@ -326,3 +326,8 @@ https://huggingface.co/blog/torch-mlp-fusion
 https://www.youtube.com/shorts/KtZgvbYAafc
 https://www.anthropic.com/news/dxc-anthropic-alliance
 https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything
+https://www.youtube.com/watch?v=nydHKXjwu0U
+https://www.youtube.com/watch?v=iH5vjVacPG8
+https://www.youtube.com/watch?v=diY71x7GUjI
+https://openai.com/index/academy-courses-applying-ai-at-work
+https://huggingface.co/blog/allenai/olmo-eval
