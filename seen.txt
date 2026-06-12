@@ -323,3 +323,6 @@ https://www.youtube.com/shorts/y6zYPkhL6AI
 https://openai.com/index/openai-to-acquire-ona
 https://www.anthropic.com/news/claude-corps
 https://huggingface.co/blog/torch-mlp-fusion
+https://www.youtube.com/shorts/KtZgvbYAafc
+https://www.anthropic.com/news/dxc-anthropic-alliance
+https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything
