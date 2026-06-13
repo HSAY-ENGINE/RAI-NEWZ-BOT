@@ -334,3 +334,5 @@ https://huggingface.co/blog/allenai/olmo-eval
 https://www.youtube.com/watch?v=ONmaDdOBGig
 https://www.anthropic.com/news/tcs-anthropic-partnership
 https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything
+https://www.youtube.com/shorts/xRdJXDktlrE
+https://www.youtube.com/shorts/HNZwNFLwE5A
