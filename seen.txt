@@ -331,3 +331,6 @@ https://www.youtube.com/watch?v=iH5vjVacPG8
 https://www.youtube.com/watch?v=diY71x7GUjI
 https://openai.com/index/academy-courses-applying-ai-at-work
 https://huggingface.co/blog/allenai/olmo-eval
+https://www.youtube.com/watch?v=ONmaDdOBGig
+https://www.anthropic.com/news/tcs-anthropic-partnership
+https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything
