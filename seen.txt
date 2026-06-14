@@ -336,3 +336,6 @@ https://www.anthropic.com/news/tcs-anthropic-partnership
 https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything
 https://www.youtube.com/shorts/xRdJXDktlrE
 https://www.youtube.com/shorts/HNZwNFLwE5A
+https://www.youtube.com/shorts/Hh1iwSi_YFs
+https://www.youtube.com/shorts/TmO1L67e5RE
+https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything
