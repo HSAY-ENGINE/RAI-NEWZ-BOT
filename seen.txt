@@ -362,3 +362,10 @@ https://www.youtube.com/shorts/7koacJYEEr4
 https://openai.com/index/deployment-simulation
 https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/
 https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything
+https://www.youtube.com/watch?v=_7BHqZayPOc
+https://www.youtube.com/shorts/Qj4eiuj7d90
+https://openai.com/index/ai-chemist-improves-reaction
+https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem
+https://huggingface.co/blog/allenai/molmomotion
+https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything
+https://blog.n8n.io/agent-to-agent-protocol/
