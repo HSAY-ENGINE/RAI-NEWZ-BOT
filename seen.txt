@@ -369,3 +369,7 @@ https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem
 https://huggingface.co/blog/allenai/molmomotion
 https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything
 https://blog.n8n.io/agent-to-agent-protocol/
+https://www.youtube.com/shorts/Qy25rSEXpPQ
+https://www.youtube.com/shorts/W6yHB-HRHSA
+https://www.youtube.com/watch?v=DTCyvo6cC54
+https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything
