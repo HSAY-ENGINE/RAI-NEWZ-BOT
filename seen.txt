@@ -373,3 +373,8 @@ https://www.youtube.com/shorts/Qy25rSEXpPQ
 https://www.youtube.com/shorts/W6yHB-HRHSA
 https://www.youtube.com/watch?v=DTCyvo6cC54
 https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything
+https://www.youtube.com/shorts/TIfKafuHNnI
+https://www.youtube.com/watch?v=RzLV8sfFdMM
+https://www.youtube.com/shorts/TlCiIwW6frg
+https://openai.com/index/diagnose-rare-childhood-diseases
+https://huggingface.co/blog/peft-beyond-lora
