@@ -382,3 +382,8 @@ https://www.youtube.com/shorts/j8Y9kttBMYE
 https://www.youtube.com/watch?v=2OD14-0cot4
 https://openai.com/index/chatgpt-enterprise-spend-controls
 https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything
+https://www.youtube.com/watch?v=dUmT0OIGoqE
+https://www.youtube.com/watch?v=Db260rUuKJg
+https://www.youtube.com/watch?v=RIPxwxqZhVI
+https://www.youtube.com/watch?v=bCmxj-d7wAs
+https://huggingface.co/blog/ServiceNow/mosaicleaks
