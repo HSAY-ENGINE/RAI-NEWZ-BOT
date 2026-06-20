@@ -390,3 +390,4 @@ https://huggingface.co/blog/ServiceNow/mosaicleaks
 https://www.youtube.com/shorts/VK-mgoD_4Uw
 https://www.youtube.com/watch?v=EuzYhzB0vbI
 https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything
+https://www.youtube.com/shorts/1Ff81BoDgoI
