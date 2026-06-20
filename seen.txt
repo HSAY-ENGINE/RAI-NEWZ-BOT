@@ -387,3 +387,6 @@ https://www.youtube.com/watch?v=Db260rUuKJg
 https://www.youtube.com/watch?v=RIPxwxqZhVI
 https://www.youtube.com/watch?v=bCmxj-d7wAs
 https://huggingface.co/blog/ServiceNow/mosaicleaks
+https://www.youtube.com/shorts/VK-mgoD_4Uw
+https://www.youtube.com/watch?v=EuzYhzB0vbI
+https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything
