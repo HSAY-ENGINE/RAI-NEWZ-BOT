@@ -395,3 +395,6 @@ https://www.youtube.com/watch?v=O2HgyToWu9Q
 https://www.youtube.com/shorts/Pwtaliu8csE
 https://www.youtube.com/watch?v=RAIVgn5RWXo
 https://www.youtube.com/shorts/nWfYNenOiXA
+https://www.youtube.com/shorts/xqJAzapigAk
+https://openai.com/index/samsung-electronics-chatgpt-codex-deployment
+https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything
