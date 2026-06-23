@@ -405,3 +405,5 @@ https://www.youtube.com/watch?v=-zL_trhnQaI
 https://www.youtube.com/shorts/VOcqc6c380M
 https://openai.com/index/patch-the-planet
 https://huggingface.co/blog/PaddlePaddle/pp-ocrv6
+https://openai.com/index/daybreak-securing-the-world
+https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything
