@@ -407,3 +407,9 @@ https://openai.com/index/patch-the-planet
 https://huggingface.co/blog/PaddlePaddle/pp-ocrv6
 https://openai.com/index/daybreak-securing-the-world
 https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything
+https://www.youtube.com/shorts/qv-KPydJhXs
+https://www.youtube.com/shorts/qWt942zRtYM
+https://www.youtube.com/watch?v=GpSqBjW6hR4
+https://www.youtube.com/watch?v=HNrJ_tohFMU
+https://openai.com/index/gpt-5-immunology-mystery
+https://huggingface.co/blog/ibm-research/cuga-apps
