@@ -416,3 +416,9 @@ https://huggingface.co/blog/ibm-research/cuga-apps
 https://openai.com/index/helping-build-shared-standards-for-advanced-ai
 https://www.anthropic.com/news/introducing-claude-tag
 https://simonwillison.net/2026/Jun/23/datasette/#atom-everything
+https://www.youtube.com/shorts/2a3nXQjR1nM
+https://www.youtube.com/watch?v=gtIO2Mvtig8
+https://www.youtube.com/watch?v=S2ME69hra-k
+https://www.youtube.com/shorts/NB_0dPwvWj0
+https://openai.com/index/openai-broadcom-jalapeno-inference-chip
+https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel
