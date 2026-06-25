@@ -425,3 +425,8 @@ https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automode
 https://www.youtube.com/watch?v=STH929HARLo
 https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/
 https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything
+https://www.youtube.com/watch?v=UyshVdGe4UY
+https://www.youtube.com/watch?v=ix1R0wCatGo
+https://openai.com/index/how-agents-are-transforming-work
+https://huggingface.co/blog/allenai/hybrid-token-prediction
+https://blog.n8n.io/ai-maturity-the-5-level-framework/
