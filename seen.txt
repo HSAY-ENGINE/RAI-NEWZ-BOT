@@ -422,3 +422,6 @@ https://www.youtube.com/watch?v=S2ME69hra-k
 https://www.youtube.com/shorts/NB_0dPwvWj0
 https://openai.com/index/openai-broadcom-jalapeno-inference-chip
 https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel
+https://www.youtube.com/watch?v=STH929HARLo
+https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/
+https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything
