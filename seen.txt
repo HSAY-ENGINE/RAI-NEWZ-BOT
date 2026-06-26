@@ -430,3 +430,6 @@ https://www.youtube.com/watch?v=ix1R0wCatGo
 https://openai.com/index/how-agents-are-transforming-work
 https://huggingface.co/blog/allenai/hybrid-token-prediction
 https://blog.n8n.io/ai-maturity-the-5-level-framework/
+https://www.youtube.com/shorts/LE5NN3AjCnM
+https://huggingface.co/blog/vllm-jobs
+https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything
