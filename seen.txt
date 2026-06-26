@@ -433,3 +433,7 @@ https://blog.n8n.io/ai-maturity-the-5-level-framework/
 https://www.youtube.com/shorts/LE5NN3AjCnM
 https://huggingface.co/blog/vllm-jobs
 https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything
+https://www.youtube.com/shorts/Cp24ZRS7uCc
+https://www.youtube.com/watch?v=iTY8Q449YNQ
+https://www.youtube.com/shorts/zl-Ao80FWv8
+https://blog.n8n.io/skill-loop/
