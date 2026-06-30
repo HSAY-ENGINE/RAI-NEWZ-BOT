@@ -455,3 +455,5 @@ https://www.youtube.com/shorts/l456a9npahE
 https://openai.com/index/mapping-ai-jobs-transition-eu
 https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/
 https://simonwillison.net/2026/Jun/29/ornith/#atom-everything
+https://huggingface.co/blog/allenai/discoformer
+https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything
