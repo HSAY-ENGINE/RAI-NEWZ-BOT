@@ -457,3 +457,9 @@ https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/
 https://simonwillison.net/2026/Jun/29/ornith/#atom-everything
 https://huggingface.co/blog/allenai/discoformer
 https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything
+https://www.youtube.com/shorts/BF7ohr7OJcE
+https://www.youtube.com/watch?v=fUoG63VqCAA
+https://www.youtube.com/shorts/AZUKw-fx1H0
+https://openai.com/index/how-chatgpt-adoption-has-expanded
+https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/
+https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable
