@@ -466,3 +466,9 @@ https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable
 https://www.anthropic.com/news/redeploying-fable-5
 https://huggingface.co/blog/ibm-research/scarfbench
 https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything
+https://www.youtube.com/watch?v=qks6dGQFd_c
+https://www.youtube.com/shorts/Qt0oRFQm_3U
+https://www.youtube.com/shorts/XijKG2YM0-w
+https://www.youtube.com/shorts/AJz_dm3ZzDM
+https://www.anthropic.com/news/claude-science-ai-workbench
+https://huggingface.co/blog/cerebras-gemma4-voice-ai
