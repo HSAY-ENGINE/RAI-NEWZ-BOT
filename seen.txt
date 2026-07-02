@@ -472,3 +472,4 @@ https://www.youtube.com/shorts/XijKG2YM0-w
 https://www.youtube.com/shorts/AJz_dm3ZzDM
 https://www.anthropic.com/news/claude-science-ai-workbench
 https://huggingface.co/blog/cerebras-gemma4-voice-ai
+https://blog.n8n.io/agentic-ai-design-patterns/
