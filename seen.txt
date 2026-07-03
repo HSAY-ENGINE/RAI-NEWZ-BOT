@@ -477,3 +477,7 @@ https://www.youtube.com/watch?v=XbHeJL45USQ
 https://www.youtube.com/watch?v=NwAt56d1tac
 https://www.youtube.com/watch?v=vcU85OrwuV0
 https://www.youtube.com/shorts/gZ8BbwUDsvs
+https://www.youtube.com/watch?v=y24lF1q4SFY
+https://www.youtube.com/shorts/kakIslTTIxY
+https://www.anthropic.com/news/fable-safeguards-jailbreak-framework
+https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything
