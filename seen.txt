@@ -501,3 +501,5 @@ https://www.youtube.com/shorts/UfUvbl3RdU8
 https://www.youtube.com/shorts/veAlXj0UltM
 https://huggingface.co/blog/revamped-kernels
 https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything
+https://www.youtube.com/watch?v=QpDggvZoaXk
+https://huggingface.co/blog/lerobot-release-v060
