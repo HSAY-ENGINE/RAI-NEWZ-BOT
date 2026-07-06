@@ -498,3 +498,6 @@ https://www.youtube.com/watch?v=iT_yv_nEdIo
 https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything
 https://www.youtube.com/shorts/Twpn72mPKTY
 https://www.youtube.com/shorts/UfUvbl3RdU8
+https://www.youtube.com/shorts/veAlXj0UltM
+https://huggingface.co/blog/revamped-kernels
+https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything
