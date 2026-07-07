@@ -505,3 +505,9 @@ https://www.youtube.com/watch?v=QpDggvZoaXk
 https://huggingface.co/blog/lerobot-release-v060
 https://www.anthropic.com/news/alberta-government-claude-cybersecurity
 https://simonwillison.net/2026/Jul/6/hy3/#atom-everything
+https://www.youtube.com/shorts/mCu3mVcvpLE
+https://www.youtube.com/shorts/qUqKwhaO480
+https://www.youtube.com/watch?v=XTBWVVcF3Pk
+https://www.youtube.com/watch?v=drYW7YQSC1c
+https://huggingface.co/blog/microsoft/foundry-managed-compute
+https://blog.n8n.io/ai-security-monitoring/
