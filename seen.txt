@@ -511,3 +511,8 @@ https://www.youtube.com/watch?v=XTBWVVcF3Pk
 https://www.youtube.com/watch?v=drYW7YQSC1c
 https://huggingface.co/blog/microsoft/foundry-managed-compute
 https://blog.n8n.io/ai-security-monitoring/
+https://www.youtube.com/watch?v=1yBU41auQhw
+https://openai.com/index/australian-payments-plus
+https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio
+https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/
+https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything
