@@ -523,3 +523,11 @@ https://huggingface.co/blog/native-speed-vllm-transformers-backend
 https://openai.com/index/government-national-security-partnerships
 https://huggingface.co/blog/nvidia/open-data-for-agents
 https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything
+https://www.youtube.com/watch?v=Zq5Yj8yCiqY
+https://www.youtube.com/shorts/R95k0DpT1xI
+https://www.youtube.com/watch?v=R0qF17BVl9w
+https://www.youtube.com/shorts/p62E69jGgJ0
+https://www.anthropic.com/news/reflect-with-claude
+https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/
+https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything
+https://blog.n8n.io/building-an-ai-powered-incident-response-workflow-in-n8n/
