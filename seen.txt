@@ -520,3 +520,6 @@ https://www.youtube.com/shorts/ptlZzbtzdfE
 https://www.youtube.com/shorts/0743f0-PNgA
 https://www.youtube.com/shorts/qOzizFmMLSA
 https://huggingface.co/blog/native-speed-vllm-transformers-backend
+https://openai.com/index/government-national-security-partnerships
+https://huggingface.co/blog/nvidia/open-data-for-agents
+https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything
