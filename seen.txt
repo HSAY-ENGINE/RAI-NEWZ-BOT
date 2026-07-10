@@ -533,3 +533,11 @@ https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything
 https://blog.n8n.io/building-an-ai-powered-incident-response-workflow-in-n8n/
 https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot
 https://simonwillison.net/2026/Jul/10/openai/#atom-everything
+https://www.youtube.com/watch?v=mWlCituW7wo
+https://www.youtube.com/watch?v=EOCRtSnvNNE
+https://www.youtube.com/shorts/IsoPEiMPskE
+https://www.youtube.com/watch?v=EthxaDswUFo
+https://www.youtube.com/shorts/pNFWc-WhlrM
+https://openai.com/index/deutsche-telekom
+https://huggingface.co/blog/torch-attention-profile
+https://blog.n8n.io/compliance-automation-software/
