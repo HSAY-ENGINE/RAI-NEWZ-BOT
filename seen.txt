@@ -541,3 +541,5 @@ https://www.youtube.com/shorts/pNFWc-WhlrM
 https://openai.com/index/deutsche-telekom
 https://huggingface.co/blog/torch-attention-profile
 https://blog.n8n.io/compliance-automation-software/
+https://www.youtube.com/shorts/AZXV1zzuFuQ
+https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything
