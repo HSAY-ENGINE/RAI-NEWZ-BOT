@@ -543,3 +543,6 @@ https://huggingface.co/blog/torch-attention-profile
 https://blog.n8n.io/compliance-automation-software/
 https://www.youtube.com/shorts/AZXV1zzuFuQ
 https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything
+https://www.youtube.com/shorts/QlmCaYiU-Oc
+https://www.youtube.com/watch?v=jdbOVepEtUE
+https://www.youtube.com/watch?v=IlzJVquCJhs
