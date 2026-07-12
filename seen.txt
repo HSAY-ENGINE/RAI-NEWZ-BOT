@@ -546,3 +546,6 @@ https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything
 https://www.youtube.com/shorts/QlmCaYiU-Oc
 https://www.youtube.com/watch?v=jdbOVepEtUE
 https://www.youtube.com/watch?v=IlzJVquCJhs
+https://www.youtube.com/shorts/Iir8dmNoNTg
+https://www.youtube.com/shorts/4fKn9O-YhtI
+https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything
