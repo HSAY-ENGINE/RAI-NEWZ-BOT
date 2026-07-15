@@ -567,3 +567,6 @@ https://www.youtube.com/shorts/4PgW2W2pgcA
 https://www.youtube.com/watch?v=2yqWKL8majc
 https://www.anthropic.com/news/canadian-ai-research
 https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/
+https://openai.com/index/managing-ai-investments-in-agentic-era
+https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything
+https://blog.n8n.io/should-i-use-claude-code-or-n8n/
