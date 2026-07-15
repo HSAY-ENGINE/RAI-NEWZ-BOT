@@ -570,3 +570,8 @@ https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-wit
 https://openai.com/index/managing-ai-investments-in-agentic-era
 https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything
 https://blog.n8n.io/should-i-use-claude-code-or-n8n/
+https://www.youtube.com/watch?v=0CqLVnx-2UM
+https://www.youtube.com/shorts/GzmZnbEbIKg
+https://www.youtube.com/watch?v=X7_YFIw3vo4
+https://huggingface.co/blog/real-world-voiceeq
+https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything
