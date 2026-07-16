@@ -578,3 +578,11 @@ https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everyt
 https://openai.com/index/advancing-ai-safety-through-state-and-federal-action
 https://huggingface.co/blog/allenai/shippy-tech-blog
 https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything
+https://www.youtube.com/watch?v=axOcn--n_lM
+https://www.youtube.com/shorts/FO5zsDIY6Yc
+https://www.youtube.com/shorts/t0lBa9LRvcA
+https://www.youtube.com/shorts/SAEOj2knAKo
+https://deepmind.google/blog/our-approach-to-bioresilience/
+https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages
+https://simonwillison.net/2026/Jul/16/inkling/#atom-everything
+https://blog.n8n.io/fine-tuning-vs-rag/
