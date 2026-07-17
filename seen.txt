@@ -586,3 +586,6 @@ https://deepmind.google/blog/our-approach-to-bioresilience/
 https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages
 https://simonwillison.net/2026/Jul/16/inkling/#atom-everything
 https://blog.n8n.io/fine-tuning-vs-rag/
+https://openai.com/index/why-teens-deserve-access-safe-ai
+https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb
+https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything
