@@ -589,3 +589,9 @@ https://blog.n8n.io/fine-tuning-vs-rag/
 https://openai.com/index/why-teens-deserve-access-safe-ai
 https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb
 https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything
+https://www.youtube.com/watch?v=ss2LaCKUQmU
+https://www.youtube.com/shorts/kLOfjy2o5so
+https://www.youtube.com/watch?v=s4nMu5GilBE
+https://www.youtube.com/watch?v=7Byp-1VBgHw
+https://openai.com/index/a-scorecard-for-the-ai-age
+https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything
