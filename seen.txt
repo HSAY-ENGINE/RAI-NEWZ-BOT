@@ -599,3 +599,4 @@ https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel
 https://www.youtube.com/shorts/F4PeEbV7gvc
 https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything
 https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything
+https://www.youtube.com/watch?v=bzYjoaTlDVk
