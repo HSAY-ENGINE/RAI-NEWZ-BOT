@@ -601,3 +601,7 @@ https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everyt
 https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything
 https://www.youtube.com/watch?v=bzYjoaTlDVk
 https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything
+https://www.youtube.com/watch?v=durdbSdX8o8
+https://www.youtube.com/watch?v=8MEJen0nblQ
+https://www.youtube.com/shorts/T1RkiXpmhBU
+https://huggingface.co/blog/nvidia/cosmos3edge
