@@ -605,3 +605,7 @@ https://www.youtube.com/watch?v=durdbSdX8o8
 https://www.youtube.com/watch?v=8MEJen0nblQ
 https://www.youtube.com/shorts/T1RkiXpmhBU
 https://huggingface.co/blog/nvidia/cosmos3edge
+https://www.youtube.com/shorts/Yoz0CeZYO8E
+https://openai.com/index/safety-alignment-long-horizon-models
+https://www.anthropic.com/news/rare-disease-research-grants
+https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything
