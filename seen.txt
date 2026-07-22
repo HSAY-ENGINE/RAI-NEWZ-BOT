@@ -617,3 +617,9 @@ https://simonwillison.net/2026/Jul/21/nativ/#atom-everything
 https://openai.com/index/introducing-chatgpt-small-business-program
 https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai
 https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/
+https://www.youtube.com/watch?v=QucgvbO5gsM
+https://www.youtube.com/watch?v=vY0EzTP-7EA
+https://www.youtube.com/shorts/iNuhGwsCmqs
+https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community
+https://www.anthropic.com/news/donation-public-first-action
+https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/
