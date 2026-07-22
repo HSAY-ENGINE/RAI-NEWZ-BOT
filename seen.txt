@@ -614,3 +614,6 @@ https://www.youtube.com/shorts/c1TWmKILaeM
 https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/
 https://huggingface.co/blog/grabette
 https://simonwillison.net/2026/Jul/21/nativ/#atom-everything
+https://openai.com/index/introducing-chatgpt-small-business-program
+https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai
+https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/
