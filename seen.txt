@@ -625,3 +625,7 @@ https://www.anthropic.com/news/donation-public-first-action
 https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/
 https://www.anthropic.com/news/anthropic-economic-index-connector
 https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything
+https://www.youtube.com/watch?v=wzY2fV4Mp3U
+https://www.youtube.com/shorts/B4PJAq20qe8
+https://www.youtube.com/watch?v=RW2yrxuz4pI
+https://huggingface.co/blog/nunchaku-diffusers
