@@ -629,3 +629,5 @@ https://www.youtube.com/watch?v=wzY2fV4Mp3U
 https://www.youtube.com/shorts/B4PJAq20qe8
 https://www.youtube.com/watch?v=RW2yrxuz4pI
 https://huggingface.co/blog/nunchaku-diffusers
+https://openai.com/index/health-in-chatgpt
+https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything
