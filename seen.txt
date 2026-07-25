@@ -635,3 +635,6 @@ https://www.youtube.com/watch?v=GHkaTlK16kg
 https://www.youtube.com/watch?v=Ek1NBfnnTH0
 https://www.youtube.com/watch?v=yUFpTtM7PvI
 https://blog.n8n.io/ai-agent-governance/
+https://www.anthropic.com/news/claude-opus-5
+https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything
+https://blog.n8n.io/ai-maturity-bridging-the-orchestration-chasm/
