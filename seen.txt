@@ -641,3 +641,4 @@ https://blog.n8n.io/ai-maturity-bridging-the-orchestration-chasm/
 https://www.youtube.com/shorts/n0JhhZyGP_w
 https://www.youtube.com/shorts/we7atQz7CTA
 https://www.youtube.com/watch?v=2J3uX8iRNng
+https://simonwillison.net/2026/Jul/25/ruff/#atom-everything
