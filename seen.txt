@@ -644,3 +644,4 @@ https://www.youtube.com/watch?v=2J3uX8iRNng
 https://simonwillison.net/2026/Jul/25/ruff/#atom-everything
 https://www.youtube.com/shorts/iu-tCi9GCn4
 https://www.youtube.com/watch?v=Ums8suyAG1A
+https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything
