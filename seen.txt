@@ -650,3 +650,4 @@ https://openai.com/index/how-ai-is-expanding-what-people-do-at-work
 https://www.anthropic.com/news/cognizant-anthropic
 https://huggingface.co/blog/nvidia/cosmos-h-dreams
 https://ai.meta.com/blog/assistive-robotics-university-of-pittsburgh-sam-dino/
+https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything
