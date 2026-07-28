@@ -651,3 +651,6 @@ https://www.anthropic.com/news/cognizant-anthropic
 https://huggingface.co/blog/nvidia/cosmos-h-dreams
 https://ai.meta.com/blog/assistive-robotics-university-of-pittsburgh-sam-dino/
 https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything
+https://www.youtube.com/shorts/L6D53cDy19U
+https://www.youtube.com/watch?v=_frZBuEvlMA
+https://huggingface.co/blog/LiquidAI/lfm2-5-encoders
