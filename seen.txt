@@ -657,3 +657,9 @@ https://huggingface.co/blog/LiquidAI/lfm2-5-encoders
 https://openai.com/index/scientific-computing-agentic-ai
 https://huggingface.co/blog/allenai/olmoearth-infrastructure
 https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything
+https://www.youtube.com/watch?v=Xj-QdEUxJkE
+https://www.youtube.com/shorts/zdG2bgFPxl4
+https://www.youtube.com/watch?v=-TY1-BTeepI
+https://www.youtube.com/watch?v=QLJhg2yJxNM
+https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/
+https://blog.n8n.io/rag-vs-agentic-rag/
