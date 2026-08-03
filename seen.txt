@@ -687,3 +687,8 @@ https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything
 https://www.youtube.com/watch?v=8B05cy3UuSE
 https://www.youtube.com/shorts/4mV2nvS9JjM
 https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything
+https://www.youtube.com/watch?v=bm1BjOjS7sQ
+https://www.youtube.com/shorts/SsNRQuLRz4Y
+https://www.youtube.com/watch?v=VzZaxKG-Zd4
+https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything
+https://blog.n8n.io/building-with-ai-the-day-2-problem/
