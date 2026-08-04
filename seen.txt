@@ -694,3 +694,8 @@ https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything
 https://blog.n8n.io/building-with-ai-the-day-2-problem/
 https://openai.com/index/apple-is-getting-this-wrong
 https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything
+https://www.youtube.com/shorts/_HhnzIDnVnk
+https://www.youtube.com/watch?v=NuNDpeZYQ28
+https://www.youtube.com/watch?v=7WZ6XldxX0U
+https://www.youtube.com/watch?v=lfDuhgJitEQ
+https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b
