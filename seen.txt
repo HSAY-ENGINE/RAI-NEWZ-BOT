@@ -692,3 +692,5 @@ https://www.youtube.com/shorts/SsNRQuLRz4Y
 https://www.youtube.com/watch?v=VzZaxKG-Zd4
 https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything
 https://blog.n8n.io/building-with-ai-the-day-2-problem/
+https://openai.com/index/apple-is-getting-this-wrong
+https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything
