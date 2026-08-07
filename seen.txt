@@ -706,3 +706,9 @@ https://www.youtube.com/watch?v=ppQh4Tc9BmM
 https://www.youtube.com/shorts/Rx7i0Rj85N8
 https://www.youtube.com/watch?v=7Im2vez00So
 https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything
+https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt
+https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards
+https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/
+https://huggingface.co/blog/baseten
+https://simonwillison.net/2026/Aug/6/datasette/#atom-everything
+https://blog.n8n.io/semantic-chunking/
