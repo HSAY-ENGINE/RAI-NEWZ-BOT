@@ -719,3 +719,6 @@ https://www.youtube.com/shorts/vVu2zfW9nMc
 https://www.youtube.com/shorts/NClayXM8pU0
 https://www.youtube.com/shorts/WK9Z2FkksQ0
 https://openai.com/index/hsp-gruppe
+https://openai.com/index/responding-next-frontier-critical-cyber-capabilities
+https://huggingface.co/blog/allenai/tutormoments
+https://simonwillison.net/2026/Aug/8/john-gruber/#atom-everything
