@@ -729,3 +729,4 @@ https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything
 https://blog.n8n.io/metabase-security-incident-update/
 https://www.youtube.com/watch?v=A-2WKQxhI_8
 https://www.youtube.com/shorts/PdBmM--N9UQ
+https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything
