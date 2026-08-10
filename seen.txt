@@ -730,3 +730,8 @@ https://blog.n8n.io/metabase-security-incident-update/
 https://www.youtube.com/watch?v=A-2WKQxhI_8
 https://www.youtube.com/shorts/PdBmM--N9UQ
 https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything
+https://www.youtube.com/shorts/twn1PI2J0AM
+https://www.youtube.com/shorts/sB_Y7ViXdMo
+https://openai.com/index/responsible-ai-infrastructure-texas
+https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation
+https://replicate.com/blog/flux-3
