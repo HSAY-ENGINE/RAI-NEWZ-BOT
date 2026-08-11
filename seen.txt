@@ -738,3 +738,8 @@ https://replicate.com/blog/flux-3
 https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents
 https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything
 https://blog.n8n.io/one-click-connection-to-nearly-70-mcp-servers-and-when-to-use-them/
+https://www.youtube.com/shorts/-EHayv-9I0A
+https://www.youtube.com/watch?v=LVAHYV4Xrto
+https://www.youtube.com/watch?v=xlaSgpb_9hg
+https://huggingface.co/blog/ibm-research/altk-evolve-sldd
+https://blog.n8n.io/one-click-connection-to-70-mcp-servers-and-when-to-use-them/
