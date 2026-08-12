@@ -746,3 +746,9 @@ https://blog.n8n.io/one-click-connection-to-70-mcp-servers-and-when-to-use-them/
 https://www.youtube.com/watch?v=JQ97GiDwPxc
 https://openai.com/index/testing-ads-in-chatgpt
 https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/#atom-everything
+https://www.youtube.com/watch?v=PQBYZQqan2g
+https://openai.com/index/how-enterprises-put-ai-to-work
+https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/
+https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b
+https://simonwillison.net/2026/Aug/12/florian-herrengt/#atom-everything
+https://blog.n8n.io/n8n-culture-code/
