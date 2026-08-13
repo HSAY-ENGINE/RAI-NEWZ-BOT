@@ -752,3 +752,5 @@ https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/
 https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b
 https://simonwillison.net/2026/Aug/12/florian-herrengt/#atom-everything
 https://blog.n8n.io/n8n-culture-code/
+https://huggingface.co/blog/allenai/olmoearth-embeddings
+https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/
