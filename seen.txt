@@ -765,3 +765,8 @@ https://www.youtube.com/watch?v=NC4h5kWH_-A
 https://www.youtube.com/shorts/AA6YW7JhmTQ
 https://huggingface.co/blog/state-of-open-models-summer-2026
 https://blog.n8n.io/ai-agent-observability/
+https://www.youtube.com/shorts/aszRSGI_Iwg
+https://www.youtube.com/shorts/MmrKvQxtlwE
+https://www.anthropic.com/news/claude-text-watermark
+https://simonwillison.net/2026/Aug/15/sighting-391300422/
+https://blog.n8n.io/rpa-vs-workflow-automation/
