@@ -778,3 +778,5 @@ https://www.youtube.com/shorts/9ZKeu_7k9ik
 https://www.youtube.com/shorts/edr085nORug
 https://www.youtube.com/shorts/SLjfjwn180U
 https://openai.com/index/the-defenders-window
+https://huggingface.co/blog/Dharma-AI/gpu-management-pt2
+https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/
