@@ -786,3 +786,6 @@ https://www.youtube.com/watch?v=zpS6JGJNaGg
 https://www.youtube.com/watch?v=d-92Bu4AcQU
 https://openai.com/index/partnering-with-codeai
 https://huggingface.co/blog/multi-vector-encoder
+https://openai.com/index/strengthening-democratic-oversight-in-national-security
+https://huggingface.co/blog/ibm-research/altk-evolve-hmm
+https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/
