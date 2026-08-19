@@ -789,3 +789,9 @@ https://huggingface.co/blog/multi-vector-encoder
 https://openai.com/index/strengthening-democratic-oversight-in-national-security
 https://huggingface.co/blog/ibm-research/altk-evolve-hmm
 https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/
+https://www.youtube.com/shorts/r-ORCmsRHOE
+https://www.youtube.com/watch?v=TMPUUyQC5aM
+https://www.youtube.com/shorts/-XJrnSV9boI
+https://www.youtube.com/shorts/sJcnjKe_Kb0
+https://openai.com/index/replit
+https://huggingface.co/blog/LiquidAI/qad
