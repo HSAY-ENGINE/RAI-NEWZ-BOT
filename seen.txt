@@ -795,3 +795,6 @@ https://www.youtube.com/shorts/-XJrnSV9boI
 https://www.youtube.com/shorts/sJcnjKe_Kb0
 https://openai.com/index/replit
 https://huggingface.co/blog/LiquidAI/qad
+https://openai.com/index/offering-zero-data-retention-for-frontier-models
+https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/
+https://blog.n8n.io/workato-alternatives-for-enterprise-automation/
