@@ -798,3 +798,9 @@ https://huggingface.co/blog/LiquidAI/qad
 https://openai.com/index/offering-zero-data-retention-for-frontier-models
 https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/
 https://blog.n8n.io/workato-alternatives-for-enterprise-automation/
+https://www.youtube.com/watch?v=kyYepbhe1g8
+https://www.youtube.com/shorts/O-8TbMFOAfg
+https://www.youtube.com/shorts/6BetHc_qvr8
+https://www.youtube.com/shorts/rhv61m8n3Nc
+https://www.youtube.com/shorts/C5cTEwdDXDo
+https://blog.n8n.io/node-spotlight-amazon-bedrock-agentcore/
