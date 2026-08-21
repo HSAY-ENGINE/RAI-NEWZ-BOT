@@ -804,3 +804,6 @@ https://www.youtube.com/shorts/6BetHc_qvr8
 https://www.youtube.com/shorts/rhv61m8n3Nc
 https://www.youtube.com/shorts/C5cTEwdDXDo
 https://blog.n8n.io/node-spotlight-amazon-bedrock-agentcore/
+https://openai.com/index/introducing-ai-futures
+https://huggingface.co/blog/LiquidAI/lfm25-dspark
+https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/
