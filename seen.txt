@@ -807,3 +807,7 @@ https://blog.n8n.io/node-spotlight-amazon-bedrock-agentcore/
 https://openai.com/index/introducing-ai-futures
 https://huggingface.co/blog/LiquidAI/lfm25-dspark
 https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/
+https://www.youtube.com/watch?v=I0f3uUApLzY
+https://www.youtube.com/watch?v=yCACmFTiCto
+https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/
+https://huggingface.co/blog/asr-benchmark-optimization
