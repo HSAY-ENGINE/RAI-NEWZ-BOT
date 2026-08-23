@@ -815,3 +815,5 @@ https://simonwillison.net/2026/Aug/21/llm/
 https://www.youtube.com/shorts/aOzaO5AAGjk
 https://www.youtube.com/shorts/F3FnnHNcLos
 https://www.youtube.com/watch?v=_kK_4cOYF4o
+https://www.youtube.com/watch?v=QUI6Ug4cHnE
+https://simonwillison.net/2026/Aug/22/linus-torvalds/
