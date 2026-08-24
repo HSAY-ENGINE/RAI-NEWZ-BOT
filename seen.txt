@@ -821,3 +821,8 @@ https://www.youtube.com/watch?v=6B3rDvhJVoc
 https://www.youtube.com/shorts/hJ0fwCM4zsQ
 https://www.youtube.com/watch?v=UsfCe5fJK6A
 https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/
+https://www.youtube.com/shorts/ZY628bslSYY
+https://www.youtube.com/shorts/28-U4wR3YZw
+https://www.youtube.com/watch?v=ZzHsJW10iq4
+https://www.youtube.com/shorts/JnrtnUxt5WA
+https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/
