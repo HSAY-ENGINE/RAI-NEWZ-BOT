@@ -829,3 +829,9 @@ https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/
 https://openai.com/index/gpt-5-6-in-kiro
 https://huggingface.co/blog/gradio-workflow-guide
 https://simonwillison.net/2026/Aug/24/llm-anthropic/
+https://www.youtube.com/watch?v=wMl6c_r0ubw
+https://www.youtube.com/shorts/f74JmwXm-sQ
+https://www.youtube.com/watch?v=DoHPZf7jEQ4
+https://www.youtube.com/shorts/OEpmYQJSqv8
+https://openai.com/index/jalapeno-first-results
+https://huggingface.co/blog/ibm-granite/granite-4-2
