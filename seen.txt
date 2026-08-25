@@ -826,3 +826,6 @@ https://www.youtube.com/shorts/28-U4wR3YZw
 https://www.youtube.com/watch?v=ZzHsJW10iq4
 https://www.youtube.com/shorts/JnrtnUxt5WA
 https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/
+https://openai.com/index/gpt-5-6-in-kiro
+https://huggingface.co/blog/gradio-workflow-guide
+https://simonwillison.net/2026/Aug/24/llm-anthropic/
