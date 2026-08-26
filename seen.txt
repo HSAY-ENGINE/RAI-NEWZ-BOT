@@ -838,3 +838,11 @@ https://huggingface.co/blog/ibm-granite/granite-4-2
 https://openai.com/index/the-full-stack-behind-abundant-intelligence
 https://www.anthropic.com/news/wellbeing-research-grants
 https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/
+https://www.youtube.com/watch?v=L9mMfAFwbl4
+https://www.youtube.com/shorts/uS2gi-D8C0k
+https://www.youtube.com/watch?v=1kvmZZ8peBQ
+https://www.youtube.com/watch?v=bg0C-2iUUqM
+https://www.youtube.com/watch?v=OAUF574I7Gk
+https://openai.com/index/loveholidays
+https://huggingface.co/blog/train-multi-vector-encoder
+https://simonwillison.net/2026/Aug/26/paul-dix/
