@@ -835,3 +835,6 @@ https://www.youtube.com/watch?v=DoHPZf7jEQ4
 https://www.youtube.com/shorts/OEpmYQJSqv8
 https://openai.com/index/jalapeno-first-results
 https://huggingface.co/blog/ibm-granite/granite-4-2
+https://openai.com/index/the-full-stack-behind-abundant-intelligence
+https://www.anthropic.com/news/wellbeing-research-grants
+https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/
