@@ -853,3 +853,10 @@ https://www.youtube.com/shorts/ygK651kvELM
 https://openai.com/index/expanding-our-presence-in-brazil
 https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/
 https://simonwillison.net/2026/Aug/26/qwen38-flash-next/
+https://www.youtube.com/watch?v=KL9_1GbmCic
+https://www.youtube.com/shorts/Z93MPi8ZO3A
+https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training
+https://www.anthropic.com/news/expanding-support-for-scientists
+https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/
+https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/
+https://blog.n8n.io/rbac-for-ai-agents/
