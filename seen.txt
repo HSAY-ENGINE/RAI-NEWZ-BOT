@@ -860,3 +860,7 @@ https://www.anthropic.com/news/expanding-support-for-scientists
 https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/
 https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/
 https://blog.n8n.io/rbac-for-ai-agents/
+https://www.youtube.com/watch?v=LBiNcdGNgrg
+https://www.youtube.com/watch?v=PYjbeY8sGLs
+https://www.youtube.com/shorts/QzBzvz-9zAI
+https://openai.com/index/supporting-next-generation-ai-startups-thailand
