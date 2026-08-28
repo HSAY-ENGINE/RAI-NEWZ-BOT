@@ -864,3 +864,7 @@ https://www.youtube.com/watch?v=LBiNcdGNgrg
 https://www.youtube.com/watch?v=PYjbeY8sGLs
 https://www.youtube.com/shorts/QzBzvz-9zAI
 https://openai.com/index/supporting-next-generation-ai-startups-thailand
+https://www.youtube.com/watch?v=TInwQglNkzo
+https://www.youtube.com/watch?v=r2Vege6BR7c
+https://huggingface.co/blog/open-asr-leaderboard-global-south
+https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/
