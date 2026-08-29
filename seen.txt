@@ -870,3 +870,4 @@ https://huggingface.co/blog/open-asr-leaderboard-global-south
 https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/
 https://www.youtube.com/shorts/2_UcYzbYnAI
 https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex
+https://www.youtube.com/shorts/ICEt2fc8AE4
