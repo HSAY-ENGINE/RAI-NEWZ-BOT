@@ -868,3 +868,5 @@ https://www.youtube.com/watch?v=TInwQglNkzo
 https://www.youtube.com/watch?v=r2Vege6BR7c
 https://huggingface.co/blog/open-asr-leaderboard-global-south
 https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/
+https://www.youtube.com/shorts/2_UcYzbYnAI
+https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex
