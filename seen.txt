@@ -877,3 +877,6 @@ https://www.youtube.com/shorts/5vE7XFQwHmc
 https://www.youtube.com/shorts/BI7WdJphOLI
 https://www.youtube.com/watch?v=4hKJ9X6rGFo
 https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/
+https://www.youtube.com/watch?v=JWMizuT_A8E
+https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads
+https://blog.n8n.io/long-running-agents-beyond-prompt-engineering/
