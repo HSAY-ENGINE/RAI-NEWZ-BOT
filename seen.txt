@@ -885,3 +885,11 @@ https://www.youtube.com/watch?v=NyfYxpXiw_0
 https://openai.com/index/supporting-california-bill-advance-ai-youth-safety
 https://www.anthropic.com/news/improving-alignment-security-efforts
 https://simonwillison.net/2026/Aug/31/introducing-wrapture/
+https://www.youtube.com/watch?v=w9RDunJACkc
+https://www.youtube.com/shorts/-goIBDS9UNU
+https://www.youtube.com/watch?v=Lbax7_pW2Nw
+https://www.youtube.com/shorts/4nfZrv64r9g
+https://openai.com/index/ai-native-company-workflows
+https://deepmind.google/blog/introducing-agentic-video-in-gemini/
+https://huggingface.co/blog/webgpu-kernels
+https://simonwillison.net/2026/Sep/1/tarn-adams/
