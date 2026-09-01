@@ -880,3 +880,8 @@ https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/
 https://www.youtube.com/watch?v=JWMizuT_A8E
 https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads
 https://blog.n8n.io/long-running-agents-beyond-prompt-engineering/
+https://www.youtube.com/shorts/j8quF2F067w
+https://www.youtube.com/watch?v=NyfYxpXiw_0
+https://openai.com/index/supporting-california-bill-advance-ai-youth-safety
+https://www.anthropic.com/news/improving-alignment-security-efforts
+https://simonwillison.net/2026/Aug/31/introducing-wrapture/
