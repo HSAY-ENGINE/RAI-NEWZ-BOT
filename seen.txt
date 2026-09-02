@@ -893,3 +893,9 @@ https://openai.com/index/ai-native-company-workflows
 https://deepmind.google/blog/introducing-agentic-video-in-gemini/
 https://huggingface.co/blog/webgpu-kernels
 https://simonwillison.net/2026/Sep/1/tarn-adams/
+https://www.youtube.com/shorts/bYKWCRfhzI4
+https://www.youtube.com/watch?v=FFWtxjvW2ts
+https://www.youtube.com/shorts/Nptj8RMf-wo
+https://www.anthropic.com/news/enterprise-frontier-safeguards
+https://huggingface.co/blog/allenai/benchmirt
+https://simonwillison.net/2026/Sep/2/rick-brewster/
