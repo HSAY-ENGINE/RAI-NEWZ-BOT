@@ -899,3 +899,7 @@ https://www.youtube.com/shorts/Nptj8RMf-wo
 https://www.anthropic.com/news/enterprise-frontier-safeguards
 https://huggingface.co/blog/allenai/benchmirt
 https://simonwillison.net/2026/Sep/2/rick-brewster/
+https://www.youtube.com/shorts/Wyua2N1icmk
+https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/
+https://huggingface.co/blog/ibm-research/real-time-intelligence
+https://simonwillison.net/2026/Sep/2/llm-gemini/
