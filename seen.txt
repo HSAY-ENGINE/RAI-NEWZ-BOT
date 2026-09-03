@@ -907,3 +907,10 @@ https://www.youtube.com/watch?v=Po_Dh7WLgmM
 https://www.youtube.com/shorts/8QWNqztKdy0
 https://www.youtube.com/watch?v=FBVNS1l5Vb8
 https://openai.com/index/atv-big-air-tour
+https://www.youtube.com/watch?v=B3LXEW4Pc-w
+https://www.youtube.com/shorts/K_iUGDw2Sho
+https://www.youtube.com/watch?v=ws-SYW3pNVU
+https://www.youtube.com/shorts/tQAMnvafwbA
+https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/
+https://huggingface.co/blog/Hcompany/neomme
+https://blog.n8n.io/workflow-security/
