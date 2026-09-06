@@ -930,3 +930,5 @@ https://www.youtube.com/watch?v=9oi-b5Dvtso
 https://www.youtube.com/shorts/66ja5l3Ef5Q
 https://www.youtube.com/watch?v=2dRvcgskIxY
 https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/
+https://www.youtube.com/watch?v=TIEq5vmfYT8
+https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/
