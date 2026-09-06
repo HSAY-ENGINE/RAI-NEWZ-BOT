@@ -932,3 +932,7 @@ https://www.youtube.com/watch?v=2dRvcgskIxY
 https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/
 https://www.youtube.com/watch?v=TIEq5vmfYT8
 https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/
+https://www.youtube.com/shorts/svgSD9lVn6g
+https://www.youtube.com/shorts/bbFQODKj0ho
+https://openai.com/index/an-alien-mind
+https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/
