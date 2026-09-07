@@ -936,3 +936,6 @@ https://www.youtube.com/shorts/svgSD9lVn6g
 https://www.youtube.com/shorts/bbFQODKj0ho
 https://openai.com/index/an-alien-mind
 https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/
+https://www.youtube.com/shorts/MzXV7vyIU3Q
+https://www.youtube.com/watch?v=yysILVsfLFM
+https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/
