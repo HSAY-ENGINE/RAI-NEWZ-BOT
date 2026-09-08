@@ -945,3 +945,11 @@ https://openai.com/index/supporting-independent-journalism-in-ukraine
 https://www.youtube.com/shorts/JCmgH125GYo
 https://www.youtube.com/shorts/DDB-2hKyeDM
 https://simonwillison.net/2026/Sep/7/llm/
+https://www.youtube.com/watch?v=eVBJIUxv8N8
+https://www.youtube.com/shorts/LJ2YeWQ_uJE
+https://www.youtube.com/watch?v=6OmqsFrRv4I
+https://www.youtube.com/watch?v=Q_akPiKtOmY
+https://openai.com/index/the-work-now-within-reach
+https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/
+https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom
+https://blog.n8n.io/ai-agent-reliability-debug-evaluate-and-monitor-in-production/
