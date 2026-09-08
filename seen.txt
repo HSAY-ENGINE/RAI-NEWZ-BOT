@@ -942,3 +942,6 @@ https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-opena
 https://www.youtube.com/shorts/tqUEnRj0NbM
 https://www.youtube.com/watch?v=TLQLfa7yH4I
 https://openai.com/index/supporting-independent-journalism-in-ukraine
+https://www.youtube.com/shorts/JCmgH125GYo
+https://www.youtube.com/shorts/DDB-2hKyeDM
+https://simonwillison.net/2026/Sep/7/llm/
