@@ -957,3 +957,8 @@ https://www.youtube.com/shorts/xJy462VuzDg
 https://www.youtube.com/watch?v=o3IEkKXXXvo
 https://openai.com/index/codex-quantum-computing-experiments
 https://simonwillison.net/2026/Sep/9/terence-tao/
+https://www.youtube.com/shorts/iSXeiUXiln8
+https://www.youtube.com/shorts/IW0iK3hP2xA
+https://openai.com/index/paul-christiano-joins-openai-foundation-board
+https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series
+https://blog.n8n.io/introducing-n8n-assistant/
