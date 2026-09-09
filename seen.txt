@@ -953,3 +953,7 @@ https://openai.com/index/the-work-now-within-reach
 https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/
 https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom
 https://blog.n8n.io/ai-agent-reliability-debug-evaluate-and-monitor-in-production/
+https://www.youtube.com/shorts/xJy462VuzDg
+https://www.youtube.com/watch?v=o3IEkKXXXvo
+https://openai.com/index/codex-quantum-computing-experiments
+https://simonwillison.net/2026/Sep/9/terence-tao/
