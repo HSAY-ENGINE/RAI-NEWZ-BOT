@@ -968,3 +968,10 @@ https://www.youtube.com/watch?v=5QmOhvVssxY
 https://www.youtube.com/watch?v=B7uXGhYz7-4
 https://openai.com/index/ai-policy-window
 https://simonwillison.net/2026/Sep/10/calif-research/
+https://www.youtube.com/watch?v=mOvtumfyjCs
+https://www.youtube.com/watch?v=yaLP3-1Rv8g
+https://www.youtube.com/shorts/iW-yLZjbFjo
+https://www.youtube.com/shorts/hxTMZUPHpR8
+https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials
+https://huggingface.co/blog/gradio-workflow-1111
+https://blog.n8n.io/mcp-vs-api/
