@@ -975,3 +975,5 @@ https://www.youtube.com/shorts/hxTMZUPHpR8
 https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials
 https://huggingface.co/blog/gradio-workflow-1111
 https://blog.n8n.io/mcp-vs-api/
+https://www.youtube.com/shorts/AwQPdkuKi1w
+https://simonwillison.net/2026/Sep/11/datasette-security/
