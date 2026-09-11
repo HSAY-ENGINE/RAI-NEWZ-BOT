@@ -977,3 +977,7 @@ https://huggingface.co/blog/gradio-workflow-1111
 https://blog.n8n.io/mcp-vs-api/
 https://www.youtube.com/shorts/AwQPdkuKi1w
 https://simonwillison.net/2026/Sep/11/datasette-security/
+https://www.youtube.com/watch?v=JwTCjarfJYw
+https://www.youtube.com/shorts/Pr66yKk_VyQ
+https://openai.com/index/scaling-storage-one-billion-users-part-one
+https://simonwillison.net/2026/Sep/11/hugging-face-security/
