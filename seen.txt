@@ -981,3 +981,8 @@ https://www.youtube.com/watch?v=JwTCjarfJYw
 https://www.youtube.com/shorts/Pr66yKk_VyQ
 https://openai.com/index/scaling-storage-one-billion-users-part-one
 https://simonwillison.net/2026/Sep/11/hugging-face-security/
+https://www.youtube.com/shorts/cTGpzGYYTlA
+https://www.youtube.com/watch?v=6LNlCpQPYFc
+https://openai.com/index/perplexity-improving-accuracy-with-astra
+https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/
+https://blog.n8n.io/process-orchestration/
