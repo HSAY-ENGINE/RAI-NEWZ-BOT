@@ -987,3 +987,5 @@ https://openai.com/index/perplexity-improving-accuracy-with-astra
 https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/
 https://blog.n8n.io/process-orchestration/
 https://www.youtube.com/shorts/c8U8ukqBQ0Y
+https://www.youtube.com/watch?v=xUm1O4PN0WA
+https://simonwillison.net/2026/Sep/12/astra-running-routes/
