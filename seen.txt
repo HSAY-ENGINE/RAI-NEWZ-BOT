@@ -994,3 +994,8 @@ https://www.youtube.com/shorts/ZEZdLdOWpcw
 https://www.youtube.com/shorts/gvCCKhsy8f0
 https://www.youtube.com/watch?v=68HH9HVFJDM
 https://simonwillison.net/2026/Sep/14/commit-rewriter/
+https://www.youtube.com/shorts/mku_K8pCLx4
+https://www.youtube.com/shorts/mAMVjGhnzTQ
+https://openai.com/index/fyxer
+https://huggingface.co/blog/asyncgrpo-lora-hfjobs
+https://simonwillison.net/2026/Sep/14/laurie-voss/
