@@ -991,3 +991,6 @@ https://www.youtube.com/watch?v=xUm1O4PN0WA
 https://simonwillison.net/2026/Sep/12/astra-running-routes/
 https://www.youtube.com/watch?v=HIRDzMtuWFk
 https://www.youtube.com/shorts/ZEZdLdOWpcw
+https://www.youtube.com/shorts/gvCCKhsy8f0
+https://www.youtube.com/watch?v=68HH9HVFJDM
+https://simonwillison.net/2026/Sep/14/commit-rewriter/
