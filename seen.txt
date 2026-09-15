@@ -1000,3 +1000,8 @@ https://openai.com/index/fyxer
 https://huggingface.co/blog/asyncgrpo-lora-hfjobs
 https://simonwillison.net/2026/Sep/14/laurie-voss/
 https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/
+https://www.youtube.com/watch?v=YoEWjZSwoys
+https://www.youtube.com/shorts/FxcYK5WOk1c
+https://www.youtube.com/shorts/iiX3GG_JmaQ
+https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/
+https://huggingface.co/blog/ibm-research/altk-evolve-consistency
