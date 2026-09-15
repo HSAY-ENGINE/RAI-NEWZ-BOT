@@ -999,3 +999,4 @@ https://www.youtube.com/shorts/mAMVjGhnzTQ
 https://openai.com/index/fyxer
 https://huggingface.co/blog/asyncgrpo-lora-hfjobs
 https://simonwillison.net/2026/Sep/14/laurie-voss/
+https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/
