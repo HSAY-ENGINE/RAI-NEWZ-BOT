@@ -1008,3 +1008,8 @@ https://huggingface.co/blog/ibm-research/altk-evolve-consistency
 https://www.youtube.com/shorts/KL3O2uuvak0
 https://www.youtube.com/watch?v=ff7om2bBLKM
 https://simonwillison.net/2026/Sep/15/gemini-live/
+https://www.youtube.com/shorts/nF45_dhsmWY
+https://www.youtube.com/watch?v=DJl7mp2KW80
+https://www.youtube.com/watch?v=jjxKNC6toSc
+https://openai.com/index/helping-older-adults-use-ai-in-everyday-life
+https://simonwillison.net/2026/Sep/16/one-claude/
