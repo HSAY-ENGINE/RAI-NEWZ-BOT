@@ -1005,3 +1005,6 @@ https://www.youtube.com/shorts/FxcYK5WOk1c
 https://www.youtube.com/shorts/iiX3GG_JmaQ
 https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/
 https://huggingface.co/blog/ibm-research/altk-evolve-consistency
+https://www.youtube.com/shorts/KL3O2uuvak0
+https://www.youtube.com/watch?v=ff7om2bBLKM
+https://simonwillison.net/2026/Sep/15/gemini-live/
