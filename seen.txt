@@ -1025,3 +1025,9 @@ https://www.youtube.com/watch?v=vIHw_2VjSUw
 https://www.youtube.com/watch?v=oWCcN6hSFjA
 https://openai.com/index/cooley-gopublic
 https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/
+https://www.youtube.com/watch?v=Kof2VcHTjrk
+https://www.youtube.com/watch?v=bXIWJEVlOlk
+https://www.youtube.com/shorts/TIYCa6hOx1Q
+https://www.youtube.com/shorts/j79wBcGoVIA
+https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/
+https://blog.n8n.io/api-rate-limiting/
