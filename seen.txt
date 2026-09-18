@@ -1021,3 +1021,7 @@ https://simonwillison.net/2026/Sep/16/datasette/
 https://blog.n8n.io/gateway-credits/
 https://www.youtube.com/shorts/CWQTvsz3CAs
 https://www.anthropic.com/news/life-sciences-verification-program
+https://www.youtube.com/watch?v=vIHw_2VjSUw
+https://www.youtube.com/watch?v=oWCcN6hSFjA
+https://openai.com/index/cooley-gopublic
+https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/
