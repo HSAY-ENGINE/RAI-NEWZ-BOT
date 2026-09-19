@@ -1031,3 +1031,8 @@ https://www.youtube.com/shorts/TIYCa6hOx1Q
 https://www.youtube.com/shorts/j79wBcGoVIA
 https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/
 https://blog.n8n.io/api-rate-limiting/
+https://www.youtube.com/shorts/e2NNvKtpLHs
+https://openai.com/index/australian-youth-safety-blueprint
+https://www.anthropic.com/news/accenture-embedded-evaluation
+https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/
+https://blog.n8n.io/reducing-ai-workflow-latency/
