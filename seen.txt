@@ -1036,3 +1036,5 @@ https://openai.com/index/australian-youth-safety-blueprint
 https://www.anthropic.com/news/accenture-embedded-evaluation
 https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/
 https://blog.n8n.io/reducing-ai-workflow-latency/
+https://www.youtube.com/watch?v=9KOtMsZ9I28
+https://simonwillison.net/2026/Sep/19/sighting-401567341/
