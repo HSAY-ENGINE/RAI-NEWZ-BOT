@@ -1038,3 +1038,7 @@ https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/
 https://blog.n8n.io/reducing-ai-workflow-latency/
 https://www.youtube.com/watch?v=9KOtMsZ9I28
 https://simonwillison.net/2026/Sep/19/sighting-401567341/
+https://www.youtube.com/shorts/Vtl1CrwOt6o
+https://www.youtube.com/watch?v=ymgH8jS6Wb8
+https://www.youtube.com/watch?v=kUE3MK5m_IA
+https://simonwillison.net/2026/Sep/19/datasette-auth-github/
