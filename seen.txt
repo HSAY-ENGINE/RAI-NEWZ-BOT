@@ -1042,3 +1042,4 @@ https://www.youtube.com/shorts/Vtl1CrwOt6o
 https://www.youtube.com/watch?v=ymgH8jS6Wb8
 https://www.youtube.com/watch?v=kUE3MK5m_IA
 https://simonwillison.net/2026/Sep/19/datasette-auth-github/
+https://www.youtube.com/watch?v=6pG3vAbriWo
