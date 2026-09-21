@@ -1044,3 +1044,11 @@ https://www.youtube.com/watch?v=kUE3MK5m_IA
 https://simonwillison.net/2026/Sep/19/datasette-auth-github/
 https://www.youtube.com/watch?v=6pG3vAbriWo
 https://simonwillison.net/2026/Sep/20/voxium/
+https://www.youtube.com/shorts/rcUTZysF9s4
+https://www.youtube.com/shorts/2K4VocWpFi4
+https://www.youtube.com/shorts/xcxbOcc36dM
+https://www.youtube.com/shorts/Lq3FVwiWN7s
+https://openai.com/index/advisory-group-on-mathematics-and-ai
+https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an
+https://blog.n8n.io/prompt-testing-frameworks/
+https://yourstory.com/2026/07/fynd-ragini-varma-ai-for-msmes-autonomous-retail-msme-sparks-2026
