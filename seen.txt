@@ -1054,3 +1054,10 @@ https://blog.n8n.io/prompt-testing-frameworks/
 https://yourstory.com/2026/07/fynd-ragini-varma-ai-for-msmes-autonomous-retail-msme-sparks-2026
 https://huggingface.co/blog/omlx
 https://simonwillison.net/2026/Sep/21/jev/
+https://www.youtube.com/watch?v=qBBRRsH0rQc
+https://www.youtube.com/watch?v=ECshcTsXSFs
+https://www.youtube.com/watch?v=3FUUUXREjfA
+https://openai.com/index/priorities-principles-third-party-assessments
+https://huggingface.co/blog/evaleval-aisi
+https://simonwillison.net/2026/Sep/22/therealcornpop/
+https://yourstory.com/2026/02/devsparks-pune-2026-whats-in-store-developer-only-summit
