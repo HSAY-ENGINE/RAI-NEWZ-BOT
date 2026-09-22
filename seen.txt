@@ -1052,3 +1052,5 @@ https://openai.com/index/advisory-group-on-mathematics-and-ai
 https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an
 https://blog.n8n.io/prompt-testing-frameworks/
 https://yourstory.com/2026/07/fynd-ragini-varma-ai-for-msmes-autonomous-retail-msme-sparks-2026
+https://huggingface.co/blog/omlx
+https://simonwillison.net/2026/Sep/21/jev/
