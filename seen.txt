@@ -1061,3 +1061,8 @@ https://openai.com/index/priorities-principles-third-party-assessments
 https://huggingface.co/blog/evaleval-aisi
 https://simonwillison.net/2026/Sep/22/therealcornpop/
 https://yourstory.com/2026/02/devsparks-pune-2026-whats-in-store-developer-only-summit
+https://www.youtube.com/watch?v=0t-eWrGFZyA
+https://www.youtube.com/shorts/7Bgm9fHj1rY
+https://www.youtube.com/watch?v=eF3yeJuifoQ
+https://openai.com/index/better-prompt-caching-for-gpt-6
+https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/
