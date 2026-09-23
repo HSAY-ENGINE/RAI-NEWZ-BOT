@@ -1066,3 +1066,9 @@ https://www.youtube.com/shorts/7Bgm9fHj1rY
 https://www.youtube.com/watch?v=eF3yeJuifoQ
 https://openai.com/index/better-prompt-caching-for-gpt-6
 https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/
+https://www.youtube.com/shorts/nsA_HeY3idE
+https://www.youtube.com/watch?v=rOIWh6Clhdg
+https://openai.com/index/ringg
+https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/
+https://huggingface.co/blog/nvidia/nemotron-diarization
+https://yourstory.com/2026/08/equitylist-launches-ai-native-cap-table-and-compliance-platform
