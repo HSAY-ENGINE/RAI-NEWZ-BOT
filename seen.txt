@@ -1072,3 +1072,11 @@ https://openai.com/index/ringg
 https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/
 https://huggingface.co/blog/nvidia/nemotron-diarization
 https://yourstory.com/2026/08/equitylist-launches-ai-native-cap-table-and-compliance-platform
+https://www.youtube.com/shorts/NmuHpuI0n18
+https://www.youtube.com/watch?v=GmLcJVzkxPA
+https://www.youtube.com/shorts/xES-V3XMsx0
+https://openai.com/index/two-years-of-openai-academy
+https://www.anthropic.com/news/claude-discovers-novel-enzyme-system
+https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp
+https://simonwillison.net/2026/Sep/23/gemini-tts-playground/
+https://yourstory.com/2026/07/how-to-run-b2b-gtm-when-your-buyer-asks-chatgpt-first-
