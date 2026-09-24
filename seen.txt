@@ -1080,3 +1080,7 @@ https://www.anthropic.com/news/claude-discovers-novel-enzyme-system
 https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp
 https://simonwillison.net/2026/Sep/23/gemini-tts-playground/
 https://yourstory.com/2026/07/how-to-run-b2b-gtm-when-your-buyer-asks-chatgpt-first-
+https://www.youtube.com/watch?v=SA9kdAX2Zj0
+https://www.youtube.com/watch?v=1MS7y8IWMyE
+https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/
+https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark
