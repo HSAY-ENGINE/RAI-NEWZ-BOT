@@ -1090,3 +1090,8 @@ https://www.youtube.com/watch?v=0sYKSL_4sUc
 https://www.youtube.com/watch?v=QCkHIyEPIYo
 https://simonwillison.net/2026/Sep/24/commit-rewriter/
 https://yourstory.com/2026/09/tokenmaxxing-context-engineering-why-enterprise-ai-needs-better-context-not-bigger-prompts
+https://www.youtube.com/watch?v=JVbV2siM1rg
+https://www.youtube.com/watch?v=h80T5CN7r2Y
+https://openai.com/index/proaction
+https://simonwillison.net/2026/Sep/25/john-gruber/
+https://blog.n8n.io/introducing-n8n-agents/
