@@ -1084,3 +1084,9 @@ https://www.youtube.com/watch?v=SA9kdAX2Zj0
 https://www.youtube.com/watch?v=1MS7y8IWMyE
 https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/
 https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark
+https://www.youtube.com/watch?v=R9momwXV9w4
+https://www.youtube.com/shorts/SUtGm-nr4Hk
+https://www.youtube.com/watch?v=0sYKSL_4sUc
+https://www.youtube.com/watch?v=QCkHIyEPIYo
+https://simonwillison.net/2026/Sep/24/commit-rewriter/
+https://yourstory.com/2026/09/tokenmaxxing-context-engineering-why-enterprise-ai-needs-better-context-not-bigger-prompts
