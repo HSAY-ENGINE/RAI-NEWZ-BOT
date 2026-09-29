@@ -1115,3 +1115,8 @@ https://simonwillison.net/2026/Sep/28/joedaroo/
 https://www.youtube.com/watch?v=7eo-11K2e3c
 https://openai.com/index/how-we-will-do-better-for-australia
 https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/
+https://www.youtube.com/shorts/iafsAWrB8GQ
+https://www.youtube.com/shorts/b6tQTsCZYWo
+https://openai.com/index/devday-2026-recap
+https://huggingface.co/blog/nvidia/kumo-tabular
+https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/
