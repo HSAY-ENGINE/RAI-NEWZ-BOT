@@ -1112,3 +1112,6 @@ https://www.youtube.com/watch?v=W7EhE8uQZOA
 https://openai.com/index/lenfest-ai-collaborative-expansion
 https://huggingface.co/blog/Hcompany/holo4
 https://simonwillison.net/2026/Sep/28/joedaroo/
+https://www.youtube.com/watch?v=7eo-11K2e3c
+https://openai.com/index/how-we-will-do-better-for-australia
+https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/
