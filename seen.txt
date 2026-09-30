@@ -1120,3 +1120,6 @@ https://www.youtube.com/shorts/b6tQTsCZYWo
 https://openai.com/index/devday-2026-recap
 https://huggingface.co/blog/nvidia/kumo-tabular
 https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/
+https://www.youtube.com/shorts/8rbn0YjrSa4
+https://openai.com/index/introducing-gpt-6-1-sol
+https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/
