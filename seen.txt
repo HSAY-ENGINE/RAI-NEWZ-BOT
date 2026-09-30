@@ -1123,3 +1123,11 @@ https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/
 https://www.youtube.com/shorts/8rbn0YjrSa4
 https://openai.com/index/introducing-gpt-6-1-sol
 https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/
+https://www.youtube.com/shorts/c7twMUavy5Q
+https://www.youtube.com/watch?v=exibHlVno4o
+https://www.youtube.com/watch?v=BvvfZKKz4Yo
+https://www.youtube.com/watch?v=-FLo4nhCH-s
+https://www.youtube.com/watch?v=Riq1fGsbf6Q
+https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign
+https://deepmind.google/blog/introducing-synthid-bio/
+https://huggingface.co/blog/open-tts-leaderboard
