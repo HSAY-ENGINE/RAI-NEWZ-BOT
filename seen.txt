@@ -1131,3 +1131,8 @@ https://www.youtube.com/watch?v=Riq1fGsbf6Q
 https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign
 https://deepmind.google/blog/introducing-synthid-bio/
 https://huggingface.co/blog/open-tts-leaderboard
+https://www.youtube.com/shorts/BtUA3IGDxVQ
+https://www.anthropic.com/news/barclays-scales-claude
+https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/
+https://simonwillison.net/2026/Oct/1/matthew-green/
+https://yourstory.com/herstory/2026/06/145-women-report-salary-jump-after-moving-into-ai-enabled-careers-report
