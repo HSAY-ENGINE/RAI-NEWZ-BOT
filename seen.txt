@@ -1136,3 +1136,8 @@ https://www.anthropic.com/news/barclays-scales-claude
 https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/
 https://simonwillison.net/2026/Oct/1/matthew-green/
 https://yourstory.com/herstory/2026/06/145-women-report-salary-jump-after-moving-into-ai-enabled-careers-report
+https://www.youtube.com/watch?v=pY5_Ux_YJjo
+https://www.youtube.com/watch?v=FcFwz-WPvPk
+https://openai.com/index/the-eternal-complement
+https://huggingface.co/blog/allenai/olmocore3
+https://blog.n8n.io/how-api-contract-testing-prevents-production-failures/
