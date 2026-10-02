@@ -1141,3 +1141,5 @@ https://www.youtube.com/watch?v=FcFwz-WPvPk
 https://openai.com/index/the-eternal-complement
 https://huggingface.co/blog/allenai/olmocore3
 https://blog.n8n.io/how-api-contract-testing-prevents-production-failures/
+https://www.youtube.com/watch?v=_rtp1XzaP6Q
+https://huggingface.co/blog/ServiceNow-AI/autosynthdata
