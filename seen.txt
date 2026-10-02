@@ -1143,3 +1143,9 @@ https://huggingface.co/blog/allenai/olmocore3
 https://blog.n8n.io/how-api-contract-testing-prevents-production-failures/
 https://www.youtube.com/watch?v=_rtp1XzaP6Q
 https://huggingface.co/blog/ServiceNow-AI/autosynthdata
+https://www.youtube.com/watch?v=dDgncbBAA0c
+https://www.youtube.com/watch?v=l8ywUsEJ2XQ
+https://www.youtube.com/shorts/BMYPrR0oFfU
+https://openai.com/index/practical-guide-building-gpt-6
+https://www.anthropic.com/news/claude-frontier-academy
+https://huggingface.co/blog/allenai/astabrief
