@@ -1152,3 +1152,7 @@ https://huggingface.co/blog/allenai/astabrief
 https://www.youtube.com/shorts/2GOE_Zpa40c
 https://www.youtube.com/shorts/26rQLqoxBHA
 https://www.youtube.com/watch?v=iJHRQMkc6jM
+https://www.youtube.com/shorts/umSPvhTv4LM
+https://www.youtube.com/watch?v=DFlELTiSPk8
+https://www.youtube.com/shorts/bqoT-Kjxxv4
+https://simonwillison.net/2026/Oct/2/rex-s-dino-store/
