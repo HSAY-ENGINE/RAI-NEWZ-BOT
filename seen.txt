@@ -1156,3 +1156,5 @@ https://www.youtube.com/shorts/umSPvhTv4LM
 https://www.youtube.com/watch?v=DFlELTiSPk8
 https://www.youtube.com/shorts/bqoT-Kjxxv4
 https://simonwillison.net/2026/Oct/2/rex-s-dino-store/
+https://huggingface.co/blog/microsoft/thinkingbox
+https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/
