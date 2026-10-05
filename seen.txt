@@ -1159,3 +1159,9 @@ https://simonwillison.net/2026/Oct/2/rex-s-dino-store/
 https://huggingface.co/blog/microsoft/thinkingbox
 https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/
 https://www.youtube.com/watch?v=poc3PVUVkPE
+https://www.youtube.com/watch?v=ZHVNTTKu9fU
+https://www.youtube.com/shorts/bxrmWw4qt0Y
+https://www.youtube.com/watch?v=bvGptCLDhyo
+https://www.youtube.com/shorts/4-HPQC-Aht0
+https://openai.com/index/eu-text-provenance
+https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/
