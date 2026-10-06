@@ -1165,3 +1165,5 @@ https://www.youtube.com/watch?v=bvGptCLDhyo
 https://www.youtube.com/shorts/4-HPQC-Aht0
 https://openai.com/index/eu-text-provenance
 https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/
+https://huggingface.co/blog/tiiuae/falcon-emirati
+https://simonwillison.net/2026/Oct/5/felix-rieseberg/
