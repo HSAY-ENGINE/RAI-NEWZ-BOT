@@ -1167,3 +1167,7 @@ https://openai.com/index/eu-text-provenance
 https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/
 https://huggingface.co/blog/tiiuae/falcon-emirati
 https://simonwillison.net/2026/Oct/5/felix-rieseberg/
+https://www.youtube.com/watch?v=q-N8LR50TMI
+https://www.youtube.com/shorts/Tow5bJooCCY
+https://openai.com/index/advancing-computer-use-with-ironclad
+https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/
