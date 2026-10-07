@@ -1176,3 +1176,7 @@ https://openai.com/index/jump-trading
 https://www.anthropic.com/news/cyber-verification-program
 https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/
 https://simonwillison.net/2026/Oct/7/jake-boggan/
+https://www.youtube.com/watch?v=Wkaw03p3BrM
+https://openai.com/index/teens-learn-and-plan
+https://huggingface.co/blog/LiquidAI/open-d1
+https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/
