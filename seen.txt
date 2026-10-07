@@ -1171,3 +1171,8 @@ https://www.youtube.com/watch?v=q-N8LR50TMI
 https://www.youtube.com/shorts/Tow5bJooCCY
 https://openai.com/index/advancing-computer-use-with-ironclad
 https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/
+https://www.youtube.com/shorts/GQGK3U0FOcY
+https://openai.com/index/jump-trading
+https://www.anthropic.com/news/cyber-verification-program
+https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/
+https://simonwillison.net/2026/Oct/7/jake-boggan/
