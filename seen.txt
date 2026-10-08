@@ -1181,3 +1181,8 @@ https://openai.com/index/teens-learn-and-plan
 https://huggingface.co/blog/LiquidAI/open-d1
 https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/
 https://simonwillison.net/2026/Oct/7/ben-affleck/
+https://www.youtube.com/shorts/grOilk8aCS0
+https://www.youtube.com/watch?v=_0kLATjF4lw
+https://openai.com/index/oracle
+https://www.anthropic.com/news/genesis-mission-commitment
+https://blog.n8n.io/it-automation-software/
