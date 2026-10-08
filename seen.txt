@@ -1180,3 +1180,4 @@ https://www.youtube.com/watch?v=Wkaw03p3BrM
 https://openai.com/index/teens-learn-and-plan
 https://huggingface.co/blog/LiquidAI/open-d1
 https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/
+https://simonwillison.net/2026/Oct/7/ben-affleck/
