@@ -1191,3 +1191,8 @@ https://www.youtube.com/shorts/f_WsOXdGm4w
 https://openai.com/index/sophos
 https://huggingface.co/blog/building-with-ml-intern
 https://simonwillison.net/2026/Oct/9/ttok/
+https://www.youtube.com/watch?v=NUizyuGj-kE
+https://www.youtube.com/shorts/A8YuAEUQEos
+https://www.youtube.com/shorts/x7-3WohLhW8
+https://huggingface.co/blog/allenai/impactful-scheduling
+https://simonwillison.net/2026/Oct/9/matthew-green/
