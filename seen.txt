@@ -1186,3 +1186,8 @@ https://www.youtube.com/watch?v=_0kLATjF4lw
 https://openai.com/index/oracle
 https://www.anthropic.com/news/genesis-mission-commitment
 https://blog.n8n.io/it-automation-software/
+https://www.youtube.com/shorts/US1uK_TZkWU
+https://www.youtube.com/shorts/f_WsOXdGm4w
+https://openai.com/index/sophos
+https://huggingface.co/blog/building-with-ml-intern
+https://simonwillison.net/2026/Oct/9/ttok/
