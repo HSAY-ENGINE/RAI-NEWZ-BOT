@@ -1196,3 +1196,4 @@ https://www.youtube.com/shorts/A8YuAEUQEos
 https://www.youtube.com/shorts/x7-3WohLhW8
 https://huggingface.co/blog/allenai/impactful-scheduling
 https://simonwillison.net/2026/Oct/9/matthew-green/
+https://simonwillison.net/2026/Oct/10/the-new-york-times/
