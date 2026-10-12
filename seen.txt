@@ -1205,3 +1205,6 @@ https://www.youtube.com/watch?v=HhZdNYI4pJs
 https://www.youtube.com/shorts/GBdFXu2FAwY
 https://www.youtube.com/shorts/tMSqFrAiggw
 https://yourstory.com/enterprise-story/2026/10/70-of-indian-organisations-prioritise-ai-dell-study
+https://www.youtube.com/watch?v=K0GTRWwz38E
+https://simonwillison.net/2026/Oct/12/python-3-15/
+https://blog.n8n.io/devops-automation-tools/
