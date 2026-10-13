@@ -1213,3 +1213,11 @@ https://www.youtube.com/watch?v=z_sXLlLVUls
 https://www.youtube.com/shorts/OR1cvD8JqEk
 https://www.youtube.com/shorts/7GTWAXCTy0o
 https://blog.n8n.io/spotlight-you-com/
+https://www.youtube.com/watch?v=eBszYxzE2dk
+https://www.youtube.com/shorts/hxJDcw540IE
+https://www.youtube.com/shorts/gtTd9XskTTs
+https://openai.com/index/higgsfield-longer-videos-voice
+https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/
+https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b
+https://simonwillison.net/2026/Oct/13/geoffrey-huntley/
+https://blog.n8n.io/build-n8n-workflows-with-gemini-4-argon-mcp-the-assistant-and-agents/
