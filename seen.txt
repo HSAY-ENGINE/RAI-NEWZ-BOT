@@ -1224,3 +1224,11 @@ https://blog.n8n.io/build-n8n-workflows-with-gemini-4-argon-mcp-the-assistant-an
 https://www.youtube.com/shorts/CklLenf9fNc
 https://deepmind.google/blog/on-device-ai-scam-detection-mddi/
 https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/
+https://www.youtube.com/shorts/XEl4ZQKKxig
+https://www.youtube.com/watch?v=ZHcdeImHFC4
+https://www.youtube.com/shorts/CV-k6rPJvJY
+https://www.youtube.com/watch?v=M4c-23r32ZQ
+https://openai.com/index/amp-beyond-coding
+https://www.anthropic.com/news/singapore-office-opening
+https://huggingface.co/blog/allenai/hiro-acev2
+https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/
