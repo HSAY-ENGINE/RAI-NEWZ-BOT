@@ -1233,3 +1233,11 @@ https://www.anthropic.com/news/singapore-office-opening
 https://huggingface.co/blog/allenai/hiro-acev2
 https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/
 https://simonwillison.net/2026/Oct/14/tree-appreciator/
+https://www.youtube.com/watch?v=2XpIMa1BSPc
+https://www.youtube.com/shorts/saxdE-U_YS8
+https://www.youtube.com/watch?v=Gmjq3nGqi-o
+https://openai.com/index/teaching-students-to-think-and-learn-through-questions
+https://www.anthropic.com/news/an-update-on-independent-evaluators
+https://deepmind.google/blog/accelerating-antimicrobial-discovery/
+https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes
+https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/
