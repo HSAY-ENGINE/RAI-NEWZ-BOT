@@ -1232,3 +1232,4 @@ https://openai.com/index/amp-beyond-coding
 https://www.anthropic.com/news/singapore-office-opening
 https://huggingface.co/blog/allenai/hiro-acev2
 https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/
+https://simonwillison.net/2026/Oct/14/tree-appreciator/
