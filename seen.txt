@@ -1247,3 +1247,7 @@ https://www.youtube.com/shorts/K70Qf06XBLE
 https://openai.com/index/introducing-the-rosalind-academic-plan
 https://huggingface.co/blog/nvidia/scaling-indic-pretraining
 https://simonwillison.net/2026/Oct/15/chirp-pong/
+https://www.youtube.com/watch?v=KGcuuhqmPhI
+https://www.youtube.com/shorts/gNMN-7D9130
+https://www.youtube.com/watch?v=LUFcr0nkSVY
+https://blog.n8n.io/enterprise-workflow-automation/
