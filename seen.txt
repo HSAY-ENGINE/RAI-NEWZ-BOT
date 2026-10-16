@@ -1241,3 +1241,9 @@ https://www.anthropic.com/news/an-update-on-independent-evaluators
 https://deepmind.google/blog/accelerating-antimicrobial-discovery/
 https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes
 https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/
+https://www.youtube.com/shorts/WXWFmwfo1JA
+https://www.youtube.com/shorts/uoO2EIJoE58
+https://www.youtube.com/shorts/K70Qf06XBLE
+https://openai.com/index/introducing-the-rosalind-academic-plan
+https://huggingface.co/blog/nvidia/scaling-indic-pretraining
+https://simonwillison.net/2026/Oct/15/chirp-pong/
