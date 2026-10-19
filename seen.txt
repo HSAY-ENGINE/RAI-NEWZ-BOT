@@ -1257,3 +1257,6 @@ https://openai.com/index/itau-generative-ai
 https://simonwillison.net/2026/Oct/16/code-review/
 https://www.youtube.com/shorts/NmN6jn6IiMA
 https://simonwillison.net/2026/Oct/17/document-currentscript/
+https://www.youtube.com/shorts/wOMNFlZ2ns8
+https://www.anthropic.com/news/public-benefit-fund
+https://simonwillison.net/2026/Oct/18/llm-tools-datasette/
