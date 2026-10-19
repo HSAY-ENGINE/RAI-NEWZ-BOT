@@ -1260,3 +1260,9 @@ https://simonwillison.net/2026/Oct/17/document-currentscript/
 https://www.youtube.com/shorts/wOMNFlZ2ns8
 https://www.anthropic.com/news/public-benefit-fund
 https://simonwillison.net/2026/Oct/18/llm-tools-datasette/
+https://www.youtube.com/watch?v=LWxX6vvHfrc
+https://www.youtube.com/shorts/aIrrq3CLSKM
+https://www.youtube.com/watch?v=hgLI491ajG0
+https://huggingface.co/blog/hf-torchneuron
+https://blog.n8n.io/n8n-nvidia-dgx-spark/
+https://yourstory.com/enterprise-story/2026/08/anaptyss-ai-to-drive-value-led-growth-bfsi
