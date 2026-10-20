@@ -1266,3 +1266,8 @@ https://www.youtube.com/watch?v=hgLI491ajG0
 https://huggingface.co/blog/hf-torchneuron
 https://blog.n8n.io/n8n-nvidia-dgx-spark/
 https://yourstory.com/enterprise-story/2026/08/anaptyss-ai-to-drive-value-led-growth-bfsi
+https://www.youtube.com/shorts/VVBszkWK0Io
+https://www.youtube.com/shorts/-TuaF3jXqfE
+https://www.youtube.com/shorts/RePzZ_ZNIBM
+https://openai.com/index/low-resource-programming-languages
+https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/
