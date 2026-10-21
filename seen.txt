@@ -1276,3 +1276,4 @@ https://www.youtube.com/watch?v=rHHBptLriDE
 https://openai.com/index/ted-taylor-restaurant
 https://huggingface.co/blog/nvidia/cosmos3-h-dreams
 https://blog.n8n.io/n8n-brand-refresh-2026/
+https://simonwillison.net/2026/Oct/20/emudhra-certificates/
