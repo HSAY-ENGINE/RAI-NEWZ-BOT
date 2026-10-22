@@ -1287,3 +1287,10 @@ https://huggingface.co/blog/nvidia/kumo-relational
 https://simonwillison.net/2026/Oct/21/php-security-release/
 https://www.youtube.com/shorts/dyrNQV0F3Zs
 https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1
+https://www.youtube.com/watch?v=DSS1Yqb6-qE
+https://www.youtube.com/watch?v=5-LqoOWlN2w
+https://openai.com/index/forward-deployed-engineering-means
+https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/
+https://huggingface.co/blog/allenai/olmoearth-v1-3
+https://simonwillison.net/2026/Oct/22/donating-agent-skills/
+https://blog.n8n.io/hallucination-detection-methods-for-ai-agent-workflows/
