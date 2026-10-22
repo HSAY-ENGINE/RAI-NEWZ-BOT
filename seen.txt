@@ -1285,3 +1285,5 @@ https://openai.com/index/att-legal
 https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust
 https://huggingface.co/blog/nvidia/kumo-relational
 https://simonwillison.net/2026/Oct/21/php-security-release/
+https://www.youtube.com/shorts/dyrNQV0F3Zs
+https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1
