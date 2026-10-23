@@ -1294,3 +1294,8 @@ https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/
 https://huggingface.co/blog/allenai/olmoearth-v1-3
 https://simonwillison.net/2026/Oct/22/donating-agent-skills/
 https://blog.n8n.io/hallucination-detection-methods-for-ai-agent-workflows/
+https://www.youtube.com/shorts/Mhp-vBbNqsw
+https://openai.com/index/openai-nask-ai-safety-security-partnership
+https://www.anthropic.com/news/open-call-guest-investigators-life-sciences
+https://huggingface.co/blog/microsoft/thinkingbox-training
+https://simonwillison.net/2026/Oct/22/de-staat-freedom/
