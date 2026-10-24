@@ -1305,3 +1305,5 @@ https://www.youtube.com/shorts/G0gZHkT-DCg
 https://openai.com/index/scaling-storage-one-billion-users-part-two
 https://huggingface.co/blog/allenai/litpivot
 https://blog.n8n.io/ai-agent-memory-how-llm-agents-manage-state-in-production/
+https://www.youtube.com/shorts/FiyUagHO37Y
+https://simonwillison.net/2026/Oct/23/quick-study-painter/
