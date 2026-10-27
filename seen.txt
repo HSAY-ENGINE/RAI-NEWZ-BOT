@@ -1324,3 +1324,11 @@ https://www.youtube.com/shorts/gC18kqOcCEI
 https://www.youtube.com/shorts/dxWOVs7ifWo
 https://openai.com/index/greptile-code-review-codex-astra
 https://simonwillison.net/2026/Oct/26/gpt-61-terra/
+https://www.youtube.com/shorts/EUjd_UBApoA
+https://www.youtube.com/watch?v=QZ6OlRUDjqs
+https://www.youtube.com/watch?v=BQJRLZ2q_Ns
+https://www.youtube.com/watch?v=JyN-hnXujhs
+https://openai.com/index/oracle-apps-in-chatgpt
+https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/
+https://huggingface.co/blog/LiquidAI/lfm3
+https://blog.n8n.io/introducing-n8n-v3/
