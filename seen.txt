@@ -1332,3 +1332,6 @@ https://openai.com/index/oracle-apps-in-chatgpt
 https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/
 https://huggingface.co/blog/LiquidAI/lfm3
 https://blog.n8n.io/introducing-n8n-v3/
+https://openai.com/index/retell-ai
+https://www.anthropic.com/research/early-progress-drug-development
+https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/
