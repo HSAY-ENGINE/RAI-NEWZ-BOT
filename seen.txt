@@ -1335,3 +1335,12 @@ https://blog.n8n.io/introducing-n8n-v3/
 https://openai.com/index/retell-ai
 https://www.anthropic.com/research/early-progress-drug-development
 https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/
+https://www.youtube.com/watch?v=pryCaGv8wuo
+https://www.youtube.com/watch?v=AtjFk9f44HE
+https://www.youtube.com/shorts/NgA8OJPf0_Y
+https://www.youtube.com/watch?v=wzUZbJCCAd4
+https://www.youtube.com/shorts/mzwYz2Zd7RA
+https://openai.com/index/the-future-of-the-firm
+https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/
+https://huggingface.co/blog/nvidia/nemotron-transcribe-granary
+https://simonwillison.net/2026/Oct/28/github-octoverse-2026/
