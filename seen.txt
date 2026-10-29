@@ -1344,3 +1344,9 @@ https://openai.com/index/the-future-of-the-firm
 https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/
 https://huggingface.co/blog/nvidia/nemotron-transcribe-granary
 https://simonwillison.net/2026/Oct/28/github-octoverse-2026/
+https://www.youtube.com/shorts/hKTkU9qUY_Y
+https://www.youtube.com/shorts/vX7FK2h56J4
+https://openai.com/index/openai-servicenow-partnership-expansion
+https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions
+https://simonwillison.net/2026/Oct/28/ted-sanders/
+https://blog.n8n.io/why-were-moving-n8ns-automation-team-beyond-the-service-desk-model/
