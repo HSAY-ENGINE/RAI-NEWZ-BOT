@@ -1350,3 +1350,8 @@ https://openai.com/index/openai-servicenow-partnership-expansion
 https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions
 https://simonwillison.net/2026/Oct/28/ted-sanders/
 https://blog.n8n.io/why-were-moving-n8ns-automation-team-beyond-the-service-desk-model/
+https://www.youtube.com/shorts/evXFML_Rnc0
+https://www.youtube.com/watch?v=1MLGhb-jvws
+https://openai.com/index/updated-model-spec
+https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1
+https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/
