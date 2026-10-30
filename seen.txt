@@ -1358,3 +1358,10 @@ https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-
 https://www.youtube.com/shorts/oFBMmxLUZVM
 https://www.youtube.com/watch?v=DByAR5Su1Yw
 https://simonwillison.net/2026/Oct/29/api-credits/
+https://www.youtube.com/watch?v=CWdTBLsbaQs
+https://www.youtube.com/shorts/4sGplZdBy6A
+https://www.youtube.com/shorts/zopfY5ONIjA
+https://www.youtube.com/shorts/sUsfO3dm8m4
+https://openai.com/index/helping-websites-express-ai-training-preferences
+https://huggingface.co/blog/nvidia/nemotron-halloween
+https://blog.n8n.io/throttling-vs-rate-limiting/
