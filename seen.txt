@@ -1355,3 +1355,6 @@ https://www.youtube.com/watch?v=1MLGhb-jvws
 https://openai.com/index/updated-model-spec
 https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1
 https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/
+https://www.youtube.com/shorts/oFBMmxLUZVM
+https://www.youtube.com/watch?v=DByAR5Su1Yw
+https://simonwillison.net/2026/Oct/29/api-credits/
