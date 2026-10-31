@@ -1365,3 +1365,6 @@ https://www.youtube.com/shorts/sUsfO3dm8m4
 https://openai.com/index/helping-websites-express-ai-training-preferences
 https://huggingface.co/blog/nvidia/nemotron-halloween
 https://blog.n8n.io/throttling-vs-rate-limiting/
+https://www.youtube.com/watch?v=eDiQNFa-zYg
+https://www.youtube.com/shorts/LP_ErrhiD-M
+https://simonwillison.net/2026/Oct/30/nesformer/
