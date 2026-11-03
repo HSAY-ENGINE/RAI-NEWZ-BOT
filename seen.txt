@@ -1391,3 +1391,11 @@ https://www.youtube.com/shorts/fkeK5J7sjpI
 https://openai.com/index/scaling-git-at-openai
 https://huggingface.co/blog/transformers-mic
 https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/
+https://www.youtube.com/watch?v=B6PMiwqu_18
+https://www.youtube.com/shorts/iboJevEybdg
+https://www.youtube.com/shorts/5HPfF6mCq2I
+https://openai.com/index/accelerating-engineering-for-the-physical-world
+https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/
+https://huggingface.co/blog/allenai/statebench
+https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/
+https://replicate.com/blog/which-minimax-h3-model
