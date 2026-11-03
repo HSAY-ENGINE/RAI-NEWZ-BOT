@@ -1386,3 +1386,8 @@ https://www.youtube.com/watch?v=_OKNwP0EnpE
 https://openai.com/index/grid-protectors-program
 https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/
 https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/
+https://www.youtube.com/shorts/lZes3U_WIug
+https://www.youtube.com/shorts/fkeK5J7sjpI
+https://openai.com/index/scaling-git-at-openai
+https://huggingface.co/blog/transformers-mic
+https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/
