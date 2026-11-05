@@ -1405,3 +1405,4 @@ https://www.youtube.com/shorts/eJqHvjD4060
 https://openai.com/index/openai-to-acquire-pierre
 https://huggingface.co/blog/Dharma-AI/dharma-field-extractor
 https://simonwillison.net/2026/Nov/4/datasette-llm/
+https://www.youtube.com/shorts/P-zrKj-odIE
