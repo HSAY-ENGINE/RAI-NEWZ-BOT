@@ -1406,3 +1406,11 @@ https://openai.com/index/openai-to-acquire-pierre
 https://huggingface.co/blog/Dharma-AI/dharma-field-extractor
 https://simonwillison.net/2026/Nov/4/datasette-llm/
 https://www.youtube.com/shorts/P-zrKj-odIE
+https://www.youtube.com/shorts/hniPlxcQ7X4
+https://www.youtube.com/shorts/6I_5XvuLv2E
+https://www.youtube.com/shorts/UD_F6EJ86PY
+https://www.youtube.com/watch?v=XQ7-omoS9lc
+https://openai.com/index/introducing-gpt-6-cyber
+https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/
+https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation
+https://simonwillison.net/2026/Nov/5/paul-ford/
