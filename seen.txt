@@ -1414,3 +1414,6 @@ https://openai.com/index/introducing-gpt-6-cyber
 https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/
 https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation
 https://simonwillison.net/2026/Nov/5/paul-ford/
+https://www.youtube.com/watch?v=XgC1QTs6A2U
+https://www.youtube.com/shorts/EN9IcNncjxE
+https://openai.com/index/australian-universities-ai-native-graduates
