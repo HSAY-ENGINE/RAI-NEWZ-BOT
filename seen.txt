@@ -1417,3 +1417,9 @@ https://simonwillison.net/2026/Nov/5/paul-ford/
 https://www.youtube.com/watch?v=XgC1QTs6A2U
 https://www.youtube.com/shorts/EN9IcNncjxE
 https://openai.com/index/australian-universities-ai-native-graduates
+https://www.youtube.com/watch?v=IrAHINf0M6E
+https://www.youtube.com/watch?v=nQlzP8Yhujg
+https://www.youtube.com/shorts/16lpGeMZlzY
+https://openai.com/index/partnering-with-hacktron
+https://huggingface.co/blog/allenai/toyblocks
+https://simonwillison.net/2026/Nov/6/nilay-patel/
