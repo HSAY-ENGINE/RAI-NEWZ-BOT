@@ -1432,3 +1432,5 @@ https://www.youtube.com/shorts/ddcvpeOv4uE
 https://simonwillison.net/2026/Nov/7/link-rel-next/
 https://www.youtube.com/shorts/jKjir4-HmQI
 https://blog.n8n.io/spotlight-turbodocx/
+https://www.youtube.com/shorts/D8bgrY4p_90
+https://simonwillison.net/2026/Nov/9/hn-50421091/
