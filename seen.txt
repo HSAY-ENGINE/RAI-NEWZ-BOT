@@ -1434,3 +1434,8 @@ https://www.youtube.com/shorts/jKjir4-HmQI
 https://blog.n8n.io/spotlight-turbodocx/
 https://www.youtube.com/shorts/D8bgrY4p_90
 https://simonwillison.net/2026/Nov/9/hn-50421091/
+https://www.youtube.com/watch?v=2TM8W66NI_8
+https://www.youtube.com/watch?v=mImbbszCjCI
+https://openai.com/index/chatgpt-enterprise-aws-marketplace
+https://www.anthropic.com/claude-fable-and-mythos-5-2
+https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan
