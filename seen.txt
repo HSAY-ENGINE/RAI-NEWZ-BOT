@@ -1442,3 +1442,12 @@ https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan
 https://www.youtube.com/shorts/GcFRheDNh5U
 https://openai.com/index/closing-ai-guidance-gap-education
 https://simonwillison.net/2026/Nov/10/muse-ember/
+https://www.youtube.com/watch?v=vug73goPJaM
+https://www.youtube.com/shorts/isqwXApzV5E
+https://www.youtube.com/shorts/SN1pPQg-5PU
+https://openai.com/index/helping-caregivers-use-ai-in-everyday-life
+https://www.anthropic.com/news/roadshow-launch
+https://deepmind.google/blog/gemini-4-carbon-is-now-available/
+https://huggingface.co/blog/hub-gcp-marketplace
+https://simonwillison.net/2026/Nov/10/llm-gemini/
+https://blog.n8n.io/microservices-best-practices/
