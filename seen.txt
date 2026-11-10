@@ -1439,3 +1439,6 @@ https://www.youtube.com/watch?v=mImbbszCjCI
 https://openai.com/index/chatgpt-enterprise-aws-marketplace
 https://www.anthropic.com/claude-fable-and-mythos-5-2
 https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan
+https://www.youtube.com/shorts/GcFRheDNh5U
+https://openai.com/index/closing-ai-guidance-gap-education
+https://simonwillison.net/2026/Nov/10/muse-ember/
