@@ -1456,3 +1456,8 @@ https://www.youtube.com/shorts/Mt54ez7xsiI
 https://www.youtube.com/shorts/VP3gRlJeWsw
 https://openai.com/index/gilbert-tobin-sam-nickless
 https://huggingface.co/blog/qvac/botpsy
+https://www.youtube.com/watch?v=pvl3z_GyU2Y
+https://www.youtube.com/watch?v=QYZcm1widUI
+https://www.youtube.com/shorts/3iylmS2k3Is
+https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/
+https://simonwillison.net/2026/Nov/11/aws-emulator/
