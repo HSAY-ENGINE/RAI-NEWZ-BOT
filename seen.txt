@@ -1451,3 +1451,8 @@ https://deepmind.google/blog/gemini-4-carbon-is-now-available/
 https://huggingface.co/blog/hub-gcp-marketplace
 https://simonwillison.net/2026/Nov/10/llm-gemini/
 https://blog.n8n.io/microservices-best-practices/
+https://www.youtube.com/watch?v=583ThJIqQ7k
+https://www.youtube.com/shorts/Mt54ez7xsiI
+https://www.youtube.com/shorts/VP3gRlJeWsw
+https://openai.com/index/gilbert-tobin-sam-nickless
+https://huggingface.co/blog/qvac/botpsy
