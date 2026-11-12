@@ -1461,3 +1461,5 @@ https://www.youtube.com/watch?v=QYZcm1widUI
 https://www.youtube.com/shorts/3iylmS2k3Is
 https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/
 https://simonwillison.net/2026/Nov/11/aws-emulator/
+https://simonwillison.net/2026/Nov/11/gemini-decisions-api/
+https://blog.n8n.io/the-future-of-work-is-built-by-everyone/
