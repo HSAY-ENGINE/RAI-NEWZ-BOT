@@ -1463,3 +1463,9 @@ https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-bet
 https://simonwillison.net/2026/Nov/11/aws-emulator/
 https://simonwillison.net/2026/Nov/11/gemini-decisions-api/
 https://blog.n8n.io/the-future-of-work-is-built-by-everyone/
+https://www.youtube.com/watch?v=gPNiuyYirfw
+https://www.youtube.com/shorts/iTe0IB5Ugf8
+https://www.youtube.com/watch?v=hRNut6GeWgE
+https://openai.com/index/amplitude
+https://deepmind.google/blog/introducing-gemini-4-hydrogen/
+https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite
