@@ -1477,3 +1477,6 @@ https://www.youtube.com/watch?v=G_Jrexy_5Bg
 https://openai.com/index/introducing-chatgpt-wallet
 https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place
 https://yourstory.com/2026/11/ai-could-disrupt-indias-outsourcing-model-could-also-create-millions-new-exporters
+https://www.youtube.com/watch?v=x7iwI6WfWS0
+https://www.youtube.com/shorts/j9WfCyrs77A
+https://simonwillison.net/2026/Nov/13/datasette-cluster-map/
