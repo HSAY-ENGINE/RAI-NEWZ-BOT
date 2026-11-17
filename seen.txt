@@ -1501,3 +1501,8 @@ https://www.youtube.com/shorts/4tSwVeio8pM
 https://www.youtube.com/shorts/-zL-hXIYRFQ
 https://openai.com/index/strengthening-nato-allied-cyber-defences-ai
 https://simonwillison.net/2026/Nov/17/go-proverbs/
+https://www.youtube.com/watch?v=gl2U4fGTr6g
+https://www.youtube.com/watch?v=QNEjh31zRyg
+https://www.youtube.com/shorts/FwWuO8ZUzV8
+https://openai.com/index/introducing-gpt-6-2-astra-sol
+https://simonwillison.net/2026/Nov/17/datasette-lite/
