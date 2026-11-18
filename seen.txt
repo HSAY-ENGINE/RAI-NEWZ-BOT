@@ -1510,3 +1510,10 @@ https://www.youtube.com/watch?v=JVHkb8PTMvc
 https://www.youtube.com/shorts/IG7WdwAJpro
 https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership
 https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/
+https://www.youtube.com/watch?v=-oA6oLxWpJg
+https://www.youtube.com/shorts/gQFYSrBf9JE
+https://www.youtube.com/watch?v=BqFimJpU1g8
+https://openai.com/index/the-silent-consensus
+https://deepmind.google/blog/introducing-gemini-4-neon/
+https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin
+https://simonwillison.net/2026/Nov/18/daniel-stenberg/
