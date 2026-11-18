@@ -1506,3 +1506,7 @@ https://www.youtube.com/watch?v=QNEjh31zRyg
 https://www.youtube.com/shorts/FwWuO8ZUzV8
 https://openai.com/index/introducing-gpt-6-2-astra-sol
 https://simonwillison.net/2026/Nov/17/datasette-lite/
+https://www.youtube.com/watch?v=JVHkb8PTMvc
+https://www.youtube.com/shorts/IG7WdwAJpro
+https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership
+https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/
