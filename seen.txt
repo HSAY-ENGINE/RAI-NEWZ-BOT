@@ -1522,3 +1522,9 @@ https://www.youtube.com/shorts/cMPisrqH1eQ
 https://www.youtube.com/shorts/6cukj26JBsg
 https://www.anthropic.com/news/anthropic-prices-initial-public-offering
 https://simonwillison.net/2026/Nov/18/llm-gemini/
+https://www.youtube.com/watch?v=KGA7B_c_S4s
+https://www.youtube.com/shorts/YbZDDCHDSnE
+https://www.youtube.com/watch?v=mxdFkqqBhPQ
+https://www.youtube.com/watch?v=aaTqimE1J9w
+https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast
+https://simonwillison.net/2026/Nov/19/postgresql-19/
