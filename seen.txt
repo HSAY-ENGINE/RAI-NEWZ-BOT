@@ -1517,3 +1517,8 @@ https://openai.com/index/the-silent-consensus
 https://deepmind.google/blog/introducing-gemini-4-neon/
 https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin
 https://simonwillison.net/2026/Nov/18/daniel-stenberg/
+https://www.youtube.com/watch?v=Cy7Wz6Z4TWU
+https://www.youtube.com/shorts/cMPisrqH1eQ
+https://www.youtube.com/shorts/6cukj26JBsg
+https://www.anthropic.com/news/anthropic-prices-initial-public-offering
+https://simonwillison.net/2026/Nov/18/llm-gemini/
