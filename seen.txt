@@ -1530,3 +1530,10 @@ https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast
 https://simonwillison.net/2026/Nov/19/postgresql-19/
 https://www.youtube.com/shorts/0IPuk63FwU0
 https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/
+https://www.youtube.com/watch?v=wqNIzUmNt9M
+https://www.youtube.com/watch?v=6vOmV0TxeJw
+https://www.youtube.com/shorts/6RDL094JKGo
+https://openai.com/index/combatting-adversarial-distillation
+https://www.anthropic.com/news/ipo-close
+https://huggingface.co/blog/inkling2mini
+https://simonwillison.net/2026/Nov/20/ravi-vakil/
