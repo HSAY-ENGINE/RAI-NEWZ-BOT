@@ -1528,3 +1528,5 @@ https://www.youtube.com/watch?v=mxdFkqqBhPQ
 https://www.youtube.com/watch?v=aaTqimE1J9w
 https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast
 https://simonwillison.net/2026/Nov/19/postgresql-19/
+https://www.youtube.com/shorts/0IPuk63FwU0
+https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/
