@@ -1537,3 +1537,5 @@ https://openai.com/index/combatting-adversarial-distillation
 https://www.anthropic.com/news/ipo-close
 https://huggingface.co/blog/inkling2mini
 https://simonwillison.net/2026/Nov/20/ravi-vakil/
+https://www.youtube.com/shorts/7_pMINxEEPU
+https://www.youtube.com/shorts/swMJWeYSa1g
