@@ -1562,3 +1562,12 @@ https://huggingface.co/blog/allenai/robotrack
 https://simonwillison.net/2026/Nov/23/glm-54/
 https://blog.n8n.io/the-monday-morning-incident-your-lead-routing-workflow-stopped-routing/
 https://simonwillison.net/2026/Nov/24/datasette-charts/
+https://www.youtube.com/shorts/PQYURWk9-w0
+https://www.youtube.com/shorts/uWquUqi6bE4
+https://www.youtube.com/shorts/W7jwa7aD0R0
+https://www.youtube.com/watch?v=OHio_GAv1uU
+https://www.youtube.com/watch?v=B8pK94kYCTg
+https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities
+https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance
+https://simonwillison.net/2026/Nov/24/llm-inflection-points/
+https://blog.n8n.io/production-ai-playbook-audit-trace-for-ai-agents/
