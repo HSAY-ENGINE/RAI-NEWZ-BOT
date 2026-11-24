@@ -1552,3 +1552,12 @@ https://www.youtube.com/watch?v=1jPdehG3Hms
 https://www.youtube.com/shorts/8RNSJ6Ud4nY
 https://www.youtube.com/watch?v=sVrmhD99BJk
 https://simonwillison.net/2026/Nov/22/select-styling/
+https://www.youtube.com/shorts/u1ozwejEwBo
+https://www.youtube.com/shorts/nIypUw6AUh8
+https://www.youtube.com/watch?v=RFfaZMSWG6w
+https://www.youtube.com/watch?v=j6AsGzC2pRk
+https://openai.com/index/introducing-shirudo
+https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/
+https://huggingface.co/blog/allenai/robotrack
+https://simonwillison.net/2026/Nov/23/glm-54/
+https://blog.n8n.io/the-monday-morning-incident-your-lead-routing-workflow-stopped-routing/
