@@ -1561,3 +1561,4 @@ https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-f
 https://huggingface.co/blog/allenai/robotrack
 https://simonwillison.net/2026/Nov/23/glm-54/
 https://blog.n8n.io/the-monday-morning-incident-your-lead-routing-workflow-stopped-routing/
+https://simonwillison.net/2026/Nov/24/datasette-charts/
