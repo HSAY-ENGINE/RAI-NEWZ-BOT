@@ -1574,3 +1574,9 @@ https://blog.n8n.io/production-ai-playbook-audit-trace-for-ai-agents/
 https://www.youtube.com/watch?v=hwWlEuI359w
 https://www.youtube.com/shorts/reRtVTuXbNc
 https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga
+https://www.youtube.com/shorts/BWpsNrkt6Z4
+https://www.youtube.com/watch?v=mPZS1cn--bs
+https://www.youtube.com/shorts/Mrl_jKJ3VtA
+https://www.youtube.com/shorts/IWvjNYbK14Y
+https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/
+https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents
