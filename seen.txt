@@ -1583,3 +1583,8 @@ https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents
 https://www.youtube.com/shorts/rIDsrAocYQE
 https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin
 https://simonwillison.net/2026/Nov/26/sqlite3-rsync/
+https://www.youtube.com/watch?v=yMJrEGyl_lw
+https://www.youtube.com/watch?v=QD2R2quiLeI
+https://huggingface.co/blog/ggml-org/llamacpp-amd-bench
+https://simonwillison.net/2026/Nov/26/jack-despain-zhou/
+https://blog.n8n.io/ai-test-case-generation/
