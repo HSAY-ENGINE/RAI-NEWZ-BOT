@@ -1580,3 +1580,6 @@ https://www.youtube.com/shorts/Mrl_jKJ3VtA
 https://www.youtube.com/shorts/IWvjNYbK14Y
 https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/
 https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents
+https://www.youtube.com/shorts/rIDsrAocYQE
+https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin
+https://simonwillison.net/2026/Nov/26/sqlite3-rsync/
