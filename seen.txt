@@ -1597,3 +1597,6 @@ https://www.youtube.com/watch?v=9gZXj1dqp40
 https://www.youtube.com/shorts/9fJsIXXrFPs
 https://huggingface.co/blog/video-trainium3
 https://blog.n8n.io/fault-tolerance/
+https://www.youtube.com/shorts/gUlFwEG_lD0
+https://www.youtube.com/watch?v=wU-g8_FCsb8
+https://simonwillison.net/2026/Nov/27/datasette-charts/
